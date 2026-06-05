@@ -1,0 +1,324 @@
+{
+  "meta": {
+    "title": "Monsaraz Castle | 葡萄牙中世纪城堡与绝美全景",
+    "description": "探索葡萄牙 Monsaraz Castle（蒙萨拉斯城堡）的完整指南。了解开放时间、交通路线及拍照攻略。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "Monsaraz Castle",
+    "subtitle": "Castelo de Monsaraz · 葡萄牙",
+    "rating": "4.7",
+    "reviewCount": "14,686",
+    "hours": "全天开放",
+    "openMaps": "查看位置"
+  },
+  "intro": {
+    "title": "探索 Monsaraz Castle",
+    "description": "Monsaraz Castle（蒙萨拉斯城堡）位于葡萄牙阿连特茹地区，是一座历史悠久的中世纪城堡。它高耸于山顶，俯瞰着壮丽的阿尔克瓦水库（Alqueva Dam）和周围广阔的平原。\n\n漫步在古老的城墙上，您可以感受到浓厚的历史气息，同时欣赏到无与伦比的全景。这里是摄影爱好者和历史迷的必访之地。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "建议清晨或傍晚前往，日落时分的景色最为迷人",
+        "城堡内多为鹅卵石路，请穿着舒适的步行鞋",
+        "夏季气温较高，请做好防晒措施"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "景区特色",
+      "items": [
+        "保存完好的中世纪城墙和建筑",
+        "俯瞰欧洲最大的人工湖——阿尔克瓦水库",
+        "独特的阿连特茹风情小镇",
+        "极佳的观星地点"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "发现蒙萨拉斯城堡的魅力",
+    "sections": [
+      {
+        "id": "history",
+        "title": "地质与历史",
+        "content": "蒙萨拉斯城堡建于13世纪，是葡萄牙边境防御体系的重要组成部分。它见证了摩尔人与基督徒之间的多次交锋，并在收复失地运动中扮演了关键角色。"
+      },
+      {
+        "id": "architecture",
+        "title": "自然与建筑奇观",
+        "content": "城堡的建筑主要由片岩和石灰岩构成，与周围的自然环境完美融合。登上主塔，您可以360度俯瞰阿连特茹的壮丽风光。"
+      },
+      {
+        "id": "experience",
+        "title": "核心体验",
+        "content": "穿过古老的城门，沿着狭窄的街道漫步，探索白色的房屋和传统的手工艺品店。在城堡的最高处静待日落，感受时光的静好。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "Castelo de Monsaraz",
+    "type": "景点类型",
+    "typeValue": "城堡",
+    "country": "国家",
+    "countryValue": "葡萄牙",
+    "city": "城市",
+    "cityValue": "Évora",
+    "googleRating": "谷歌评分",
+    "phone": "电话",
+    "address": "地址",
+    "addressValue": "Largo do Castelo 1, 7200-175 Évora, 葡萄牙",
+    "phoneValue": "-",
+    "plusCode": "Plus 代码",
+    "plusCodeValue": "CJR9+V8 莫朗 葡萄牙"
+  },
+  "hours": {
+    "title": "开放时间",
+    "outdoor": "城堡区域",
+    "outdoorTime": "通常全天开放（具体视当地安排而定）",
+    "lighthouse": "内部展览",
+    "summer": "夏季",
+    "summerTime": "09:00 - 18:00",
+    "winter": "最佳游览时间",
+    "winterTime": "春季至秋季",
+    "warning": "游览提示",
+    "warningTime": "夜间照明较弱，请注意安全",
+    "tip": "节假日开放时间可能有所不同"
+  },
+  "tickets": {
+    "title": "门票价格",
+    "outdoor": "城堡主区",
+    "outdoorPrice": "免费开放",
+    "lighthouse": "特别展览",
+    "adults": "成人",
+    "adultsPrice": "视展览而定",
+    "students": "学生/儿童",
+    "studentsPrice": "视展览而定",
+    "children": "停车费",
+    "childrenPrice": "镇外有免费停车场",
+    "card": "购票建议",
+    "cardPrice": "大部分区域免费，无需提前购票"
+  },
+  "transport": {
+    "title": "交通方式",
+    "airport": "从里斯本出发",
+    "airportDesc": "距里斯本约2小时车程，建议自驾前往，沿途可欣赏阿连特茹风光。",
+    "selfDrive": "自驾前往",
+    "selfDriveDesc": "导航至 Monsaraz，镇外有停车场。镇内限制车辆通行，需步行游览。",
+    "bus": "公共交通",
+    "busDesc": "可乘坐巴士至雷根戈什-迪蒙萨拉斯（Reguengos de Monsaraz），再转乘出租车或当地巴士。",
+    "intercity": "步行前往",
+    "intercityDesc": "在镇内全程需步行。",
+    "cycling": "骑行",
+    "cyclingDesc": "周边有许多适合骑行的乡村道路。",
+    "tips": "出行建议",
+    "tipsDesc": "建议自驾，以便更灵活地探索周边地区和阿尔克瓦水库。"
+  },
+  "route": {
+    "title": "游览路线",
+    "overview": "建议安排半天时间游览城堡及小镇。从主城门进入，沿着主街探索手工艺品店和教堂，最后登上城堡主塔欣赏全景和日落。",
+    "steps": [
+      "抵达镇外停车场，步行前往主城门（Porta da Vila）",
+      "沿着 Rua Direita（主街）漫步，欣赏白色房屋",
+      "参观 Igreja Matriz de Nossa Senhora da Lagoa（主教堂）",
+      "前往城堡区域，登上城墙",
+      "在主塔上俯瞰阿尔克瓦水库的壮丽景色",
+      "傍晚时分，在城墙上静待绝美日落",
+      "在镇上的传统餐厅享用阿连特茹特色美食"
+    ],
+    "supplements": [
+      "鹅卵石路面较滑，请穿着舒适防滑的鞋子",
+      "小镇内餐饮选择有限，旺季建议提前预订",
+      "夏季中午阳光强烈，注意防晒补水"
+    ],
+    "supplementsTitle": "游览须知"
+  },
+  "photoSpots": {
+    "title": "拍照机位",
+    "spots": [
+      {
+        "name": "城堡主塔",
+        "desc": "俯瞰阿尔克瓦水库和小镇全景的最佳位置"
+      },
+      {
+        "name": "古老城门",
+        "desc": "以厚重的城墙和拱门为背景，极具历史感"
+      },
+      {
+        "name": "白色街道",
+        "desc": "狭窄的鹅卵石街道和两旁的白色房屋，充满异国情调"
+      }
+    ],
+    "tips": "拍照补充说明",
+    "tipsContent": "日出和日落时光线最为柔和，是拍摄风光的最佳时机。夜间也是拍摄星空的绝佳地点。"
+  },
+  "hotels": {
+    "title": "住宿建议",
+    "hotels": [
+      {
+        "name": "镇内传统民宿",
+        "desc": "体验正宗的阿连特茹风情，推开窗即可欣赏美景",
+        "price": "价格中等，需提前预订"
+      },
+      {
+        "name": "周边乡村庄园",
+        "desc": "环境幽静，通常配有泳池，适合自驾游客",
+        "price": "选择多样，性价比高"
+      }
+    ],
+    "supplements": "住宿补充说明",
+    "supplementsContent": "镇内住宿资源有限，若遇满房，可选择住在距离不远的 Reguengos de Monsaraz 市区。"
+  },
+  "gallery": {
+    "title": "精彩照片",
+    "subtitle": "蒙萨拉斯城堡的迷人风光",
+    "captions": [
+      "城堡全景",
+      "古老的城墙",
+      "俯瞰阿尔克瓦水库",
+      "白色房屋与鹅卵石街道",
+      "壮丽的日落",
+      "夜间星空",
+      "历史悠久的城门",
+      "传统手工艺品店",
+      "主教堂",
+      "城堡庭院",
+      "阿连特茹平原",
+      "防御塔楼",
+      "宁静的小镇角落",
+      "阳光下的白墙",
+      "远眺风光",
+      "夜幕降临的城堡",
+      "中世纪建筑细节",
+      "春季的野花",
+      "水库风光",
+      "城堡远景"
+    ],
+    "viewAll": "在 Google Maps 查看更多照片",
+    "showAllPhotos": "显示全部照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
+    "moreReviews": "在 Google Maps 查看更多评价",
+    "items": [
+      {
+        "name": "Alice M.",
+        "date": "1个月前",
+        "rating": 5,
+        "text": "非常美丽的中世纪小镇！从城堡俯瞰水库的景色令人叹为观止。非常适合放松和拍照。"
+      },
+      {
+        "name": "Carlos R.",
+        "date": "2个月前",
+        "rating": 5,
+        "text": "历史氛围浓厚，保存得非常完好。日落时的光线打在白墙上太美了。绝对值得一去！"
+      },
+      {
+        "name": "Yiting W.",
+        "date": "3个月前",
+        "rating": 5,
+        "text": "超乎想象的美！虽然路有点难走，但是登顶后的风景值回票价。镇上的小店也很有特色。"
+      },
+      {
+        "name": "David S.",
+        "date": "4个月前",
+        "rating": 4,
+        "text": "很棒的体验。建议避开中午最热的时候。停车很方便，就在城门外。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "交通指南",
+    "subtitle": "Largo do Castelo 1, 7200-175 Évora, 葡萄牙",
+    "openMaps": "在 Google Maps 查看"
+  },
+  "footer": {
+    "rights": "© 2026 Monsaraz Castle. 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "相关资源与资讯",
+    "officialLinks": {
+      "council": "葡萄牙国家旅游局",
+      "tourism": "阿连特茹大区旅游局",
+      "england": "雷根戈什-迪蒙萨拉斯市政府"
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026年4月",
+    "sections": [
+      {
+        "heading": "1. 信息收集",
+        "content": "我们通常不会主动收集用户的个人可识别信息。您透过联系表单或电子邮件提供的任何信息将被严格保密。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2026年4月",
+    "sections": [
+      {
+        "heading": "1. 接受条款",
+        "content": "通过访问和使用本网站，您同意受这些服务条款的约束。如果您不同意条款的任何部分，则不得访问该服务。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "管理您的 Cookie 偏好设置。",
+    "essential": {
+      "title": "必要的 Cookie",
+      "description": "网站基本功能所需。",
+      "badge": "始终启用"
+    },
+    "analytics": {
+      "title": "分析 Cookie",
+      "description": "帮助我们了解访客如何与网站互动。",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Active",
+          "description": "..."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "营销 Cookie",
+      "description": "用于跨网站追踪访客。",
+      "items": [
+        {
+          "name": "Personalized Ads",
+          "status": "Inactive",
+          "description": "..."
+        }
+      ]
+    },
+    "save": "保存设置",
+    "saved": "设置已保存！",
+    "preferences": {
+      "items": [
+        {
+          "name": "User Preferences",
+          "status": "Active",
+          "description": "..."
+        }
+      ],
+      "title": "Preferences Cookies",
+      "description": "Preferences Description"
+    },
+    "consentManagement": "Consent management...",
+    "rejectAll": "全部拒绝"
+  },
+  "officialManagement": {
+    "title": "关于 Monsaraz Castle",
+    "text": "Monsaraz Castle 是葡萄牙最珍贵的历史遗产之一。"
+  }
+}
