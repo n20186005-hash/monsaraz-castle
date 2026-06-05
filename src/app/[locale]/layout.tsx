@@ -15,7 +15,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://visitpontadapiedade.com';
+  const baseUrl = 'https://monsarazcastle.com';
 
   const zhUrl = `${baseUrl}/zh`;
   const enUrl = `${baseUrl}/en`;
@@ -43,14 +43,15 @@ export async function generateMetadata({
         'zh': zhUrl,
         'en': enUrl,
         'pt': ptUrl,
+        'mwl': mwlUrl,
         'x-default': zhUrl,
-      },
+      } as Record<string, string>,
     },
     openGraph: {
       title: messages.meta.title,
       description: messages.meta.description,
       url: selfUrl,
-      siteName: "Ponta da Piedade",
+      siteName: "Monsaraz Castle",
       locale: localeMap[locale] || 'zh_CN',
       type: 'website',
     },
