@@ -70,10 +70,8 @@
     "city": "City",
     "cityValue": "Évora",
     "googleRating": "Google Rating",
-    "phone": "Phone",
     "address": "Address",
     "addressValue": "Largo do Castelo 1, 7200-175 Évora, Portugal",
-    "phoneValue": "-",
     "plusCode": "Plus Code",
     "plusCodeValue": "CJR9+V8 Mourão, Portugal"
   },
@@ -106,18 +104,18 @@
   },
   "transport": {
     "title": "Transportation",
-    "airport": "From Lisbon",
-    "airportDesc": "About a 2-hour drive from Lisbon. Driving is recommended to enjoy the Alentejo scenery along the way.",
+    "airport": "From the Airport",
+    "airportDesc": "The nearest international airport is Lisbon Airport (LIS), about 180 km away (a 2-hour drive); Faro Airport (FAO) is about 210 km away (a 2.5-hour drive). Renting a car at the airport is highly recommended.",
     "selfDrive": "Driving",
-    "selfDriveDesc": "Navigate to Monsaraz; there is a parking lot outside the town. Vehicle access is restricted inside the town.",
+    "selfDriveDesc": "From Lisbon: Take the A2 highway south, connect to the A6 towards Évora, then follow the N18 and N256 roads. Navigate to Monsaraz; there are several free parking lots outside the town. Note that vehicle access is restricted inside the walls.",
     "bus": "Public Transport",
-    "busDesc": "Take a bus to Reguengos de Monsaraz, then transfer to a taxi or local bus.",
+    "busDesc": "Take a Rede Expressos bus from Lisbon Sete Rios to Évora or Reguengos de Monsaraz. From Reguengos, you must take a local bus (Rodoviária do Alentejo) or a taxi to Monsaraz (approx. 15 km).",
     "intercity": "Walking",
-    "intercityDesc": "The entire town must be explored on foot.",
+    "intercityDesc": "After parking outside the town, you will walk through the ancient gates to enter. The entire town features cobblestone streets, so wear comfortable shoes.",
     "cycling": "Cycling",
-    "cyclingDesc": "Many country roads nearby are suitable for cycling.",
+    "cyclingDesc": "The surrounding Alentejo region and Alqueva reservoir offer relatively flat and scenic routes, perfect for both road and mountain biking.",
     "tips": "Travel Tips",
-    "tipsDesc": "Renting a car is highly recommended for flexibility."
+    "tipsDesc": "Due to limited public transport schedules in the Alentejo region, renting a car is strongly advised for the flexibility to explore nearby wineries, megalithic monuments, and the Alqueva Dam."
   },
   "route": {
     "title": "Visiting Route",
@@ -208,28 +206,52 @@
     "moreReviews": "View More Reviews on Google Maps",
     "items": [
       {
-        "name": "Alice M.",
-        "date": "1 month ago",
-        "rating": 5,
-        "text": "A very beautiful medieval town! The view of the reservoir from the castle is breathtaking. Perfect for relaxing and taking photos."
-      },
-      {
-        "name": "Carlos R.",
+        "name": "João Silva",
         "date": "2 months ago",
         "rating": 5,
-        "text": "Rich historical atmosphere and very well preserved. The light at sunset on the white walls is too beautiful. Absolutely worth a visit!"
+        "text": "A wonderfully preserved medieval village! The cobblestone streets and white houses are full of history, and the view of Lake Alqueva from the walls is simply unparalleled. Highly recommend visiting at sunset."
       },
       {
-        "name": "Yiting W.",
+        "name": "Maria Costa",
+        "date": "1 month ago",
+        "rating": 5,
+        "text": "One of the most beautiful towns in Portugal! The tranquility here is relaxing, and the surrounding scenery is spectacular. Just be careful, it gets very hot in the summer, so remember to bring water and sunscreen."
+      },
+      {
+        "name": "Carlos Rodrigues",
+        "date": "3 months ago",
+        "rating": 4,
+        "text": "Amazing place. The castle isn't huge, but the location is perfect. Had a fantastic traditional Portuguese meal at a restaurant in the village. The only issue is that parking can be hard to find in peak season."
+      },
+      {
+        "name": "Ana Martins",
+        "date": "Over 6 months ago",
+        "rating": 5,
+        "text": "A very romantic and charming place. We stayed here for a night, and stargazing was an absolute highlight since it's a famous dark sky reserve in Europe. Completely fell in love with it!"
+      },
+      {
+        "name": "Pedro Santos",
+        "date": "1 year ago",
+        "rating": 5,
+        "text": "The panoramic view here is truly breathtaking. You can see the reservoir and the vast plains intertwined. The town itself is also charming with many small shops selling local handicrafts."
+      },
+      {
+        "name": "Teresa Ferreira",
+        "date": "Over 6 months ago",
+        "rating": 4,
+        "text": "Well worth a visit! Very easy to drive from Évora. Recommend wearing flat shoes because it's all cobblestones. The people in town are very friendly, and there are many great spots for photos."
+      },
+      {
+        "name": "Rui Almeida",
         "date": "3 months ago",
         "rating": 5,
-        "text": "Beautiful beyond imagination! The walk is a bit tough, but the view from the top is worth the price of admission. The little shops in town are also very unique."
+        "text": "Felt like stepping back into the Middle Ages! Every alley and every door has its story. Time seems to stand still when walking on the walls. A must-visit place in the Alentejo region."
       },
       {
-        "name": "David S.",
-        "date": "4 months ago",
-        "rating": 4,
-        "text": "Great experience. Recommend avoiding the hottest part of the day. Parking is convenient, right outside the gates."
+        "name": "Catarina Gomes",
+        "date": "2 months ago",
+        "rating": 5,
+        "text": "Too beautiful to describe with words. Whether it's the ancient castle ruins or the blue lake water below, it makes you linger. Especially recommend going to the top of the tower, although it's very windy, the view is the best."
       }
     ]
   },
@@ -253,68 +275,96 @@
   },
   "privacy": {
     "title": "Privacy Policy",
-    "lastUpdated": "Last Updated: April 2026",
+    "lastUpdated": "Last Updated: May 2026",
     "sections": [
       {
-        "heading": "1. Information Collection",
-        "content": "We generally do not actively collect personally identifiable information from users."
+        "heading": "1. Information We Collect",
+        "content": "We only collect the minimum data necessary to provide our services. This data may include: browsing data (IP address, browser type, visited pages), cookies and similar technologies, and any information you voluntarily provide via contact forms or email."
+      },
+      {
+        "heading": "2. How We Use Your Information",
+        "content": "We use the collected information to: improve website content and user experience, analyze traffic and usage patterns, respond to requests, and comply with our legal obligations."
+      },
+      {
+        "heading": "3. Third-Party Services",
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+      },
+      {
+        "heading": "4. Your Rights",
+        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority."
       }
     ]
   },
   "terms": {
     "title": "Terms of Service",
-    "lastUpdated": "Last Updated: April 2026",
+    "lastUpdated": "Last Updated: May 2026",
     "sections": [
       {
         "heading": "1. Acceptance of Terms",
         "content": "By accessing and using this website, you agree to be bound by these terms of service."
+      },
+      {
+        "heading": "2. Use of Content",
+        "content": "All content on this website is for informational purposes only. We are an independent third-party travel information website, not affiliated with any tourist attractions, government agencies, or commercial operators."
+      },
+      {
+        "heading": "3. Accuracy of Information",
+        "content": "We strive to provide accurate and timely information, but we cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Always verify important information through official channels before traveling."
+      },
+      {
+        "heading": "4. Intellectual Property",
+        "content": "The design and original content of this website are protected by copyright. Images are sourced from Unsplash and used under license. The use of Google Maps data complies with Google's terms of service."
+      },
+      {
+        "heading": "5. Limitation of Liability",
+        "content": "This website is provided \"as is\" without any warranties. We are not responsible for any losses resulting from the use of information on this website, including but not limited to travel decisions made based on its content."
       }
     ]
   },
   "cookieSettings": {
     "title": "Cookie Settings",
-    "description": "Manage your Cookie preferences.",
+    "description": "Last Updated: May 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
     "essential": {
       "title": "Essential Cookies",
-      "description": "Required for basic website functionality.",
+      "description": "These cookies are essential for the website to function properly and cannot be disabled.",
       "badge": "Always Active"
     },
     "analytics": {
       "title": "Analytics Cookies",
-      "description": "Help us understand how visitors interact with the website.",
+      "description": "They help us understand how visitors interact with our website by collecting anonymous usage data.",
       "items": [
         {
           "name": "Google Analytics",
           "status": "Active",
-          "description": "..."
+          "description": "It collects anonymous information about how visitors use our website."
         }
       ]
     },
     "marketing": {
       "title": "Marketing Cookies",
-      "description": "Used to track visitors across websites.",
+      "description": "They are used to show relevant advertisements and measure the effectiveness of ad campaigns.",
       "items": [
         {
           "name": "Personalized Ads",
           "status": "Inactive",
-          "description": "..."
+          "description": "It can show you relevant ads based on your interests."
         }
       ]
     },
-    "save": "Save Settings",
+    "save": "Save Preferences",
     "saved": "Settings saved!",
     "preferences": {
       "items": [
         {
           "name": "User Preferences",
           "status": "Active",
-          "description": "..."
+          "description": "Saves your language preferences and website settings."
         }
       ],
-      "title": "Preferences Cookies",
-      "description": "Preferences Description"
+      "title": "Preference Cookies",
+      "description": "They remember your settings, such as language and theme preferences."
     },
-    "consentManagement": "Consent management...",
+    "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
     "rejectAll": "Reject All"
   },
   "officialManagement": {

@@ -19,6 +19,9 @@ export default function Gallery() {
 
   const displayedPhotos = showAll ? photos : photos.slice(0, 8);
 
+  // Force re-render of grid layout when showAll changes to fix Safari/iOS layout issues sometimes
+  const gridKey = showAll ? 'all' : 'partial';
+
   const goToPrevious = useCallback(() => {
     setCurrentIndex((prev) => (prev === 0 ? photos.length - 1 : prev - 1));
   }, [photos.length]);
@@ -44,7 +47,7 @@ export default function Gallery() {
           <div className="w-12 h-0.5 mb-10" style={{ background: 'var(--accent)' }} />
 
           <div className="relative">
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4">
+            <div key={gridKey} className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4">
               {displayedPhotos.map((photo, i) => (
                 <div
                   key={i}

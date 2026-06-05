@@ -25,14 +25,14 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3183.1818228565985!2d-8.672322384217144!3d37.08053607989209!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzfCsDA0JzUwLjAiTiA4wrA0MCcyMC40Ilc!5e0!3m2!1sen!2spt!4v1700000000000!5m2!1sen!2spt"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3143.5188840251786!2d-7.383181824056233!3d38.44474017325492!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd10b37803a6479b%3A0x633f81014a005cc9!2sCastelo%20de%20Monsaraz!5e0!3m2!1sen!2spt!4v1700000000000!5m2!1sen!2spt"
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Ponta da Piedade"
+            title="Google Maps - Monsaraz Castle"
           />
         </div>
 

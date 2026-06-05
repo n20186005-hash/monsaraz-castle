@@ -7,8 +7,29 @@
 
 
 
-页头 错误
+页头 错误Ponta da Piedade
 精彩照片 点击 显示全部照片 没反应 要能显示全部图片
+
+关于 Monsaraz Castle
+Monsaraz Castle 是葡萄牙最珍贵的历史遗产之一。
+要加上他受谁管理
+
+删除
+电话
+
+-
+
+交通方式
+完善景点具体路线怎么走
+新增机场出发路线
+
+游客评价
+在现有评价基础上新增到8条，不要捏造评价直接从https://maps.app.goo.gl/WLjBvPFtdXS7pBpXA 提取
+
+
+交通指南
+Largo do Castelo 1, 7200-175 Évora, 葡萄牙
+显示出来的图形位置是错的 位置应该是https://maps.app.goo.gl/WLjBvPFtdXS7pBpXA
 
 
 
