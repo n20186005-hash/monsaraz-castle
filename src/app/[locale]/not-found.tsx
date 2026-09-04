@@ -1,4 +1,6 @@
-import { setRequestLocale } from 'next-intl/server';
+'use client';
+
+import { useLocale } from 'next-intl';
 
 const notFoundCopy: Record<string, { code: string; title: string; text: string; back: string }> = {
   pt: {
@@ -27,14 +29,10 @@ const notFoundCopy: Record<string, { code: string; title: string; text: string; 
   },
 };
 
-export default async function LocaleNotFound({
-  params,
-}: {
-  params: Promise<{ locale: string }>;
-}) {
-  const { locale } = await params;
-  setRequestLocale(locale);
+export default function LocaleNotFound() {
+  const locale = useLocale();
   const copy = notFoundCopy[locale] || notFoundCopy.pt;
+  const homeHref = `/${locale}`;
 
   return (
     <main
@@ -46,7 +44,7 @@ export default async function LocaleNotFound({
         <h1 className="text-2xl font-semibold mb-3">{copy.title}</h1>
         <p className="text-base opacity-80 mb-8">{copy.text}</p>
         <a
-          href={`/${locale}`}
+          href={homeHref}
           className="inline-block px-6 py-3 rounded-lg font-medium text-white"
           style={{ background: '#3a7a8d' }}
         >
