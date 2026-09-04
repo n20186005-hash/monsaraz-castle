@@ -70,7 +70,7 @@ export async function generateMetadata({
           url: `${baseUrl}/gallery/monsaraz-castle-1.jpg`,
           width: 1600,
           height: 1200,
-          alt: 'Castelo de Monsaraz sobre a vila de Monsaraz',
+          alt: messages.meta.title,
         },
       ],
     },
@@ -168,10 +168,10 @@ export default async function LocaleLayout({
         },
         geo: {
           '@type': 'GeoCoordinates',
-          latitude: 38.44306,
-          longitude: -7.3806,
+          latitude: 38.4422826,
+          longitude: -7.3817249,
         },
-        hasMap: 'https://maps.app.goo.gl/wFFoJUqnrAQXGdVJ8',
+        hasMap: 'https://maps.app.goo.gl/wPN3d4exqLmb8N7M8',
         openingHoursSpecification: {
           '@type': 'OpeningHoursSpecification',
           dayOfWeek: [
@@ -190,10 +190,10 @@ export default async function LocaleLayout({
           '@type': 'AggregateRating',
           ratingValue: '4.7',
           bestRating: '5',
-          reviewCount: '14966',
+          reviewCount: '14967',
         },
         sameAs: [
-          'https://maps.app.goo.gl/wFFoJUqnrAQXGdVJ8',
+          'https://maps.app.goo.gl/wPN3d4exqLmb8N7M8',
           'https://www.cm-reguengos-monsaraz.pt/',
           'https://www.visitportugal.com',
         ],

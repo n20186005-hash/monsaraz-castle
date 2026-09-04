@@ -13,6 +13,7 @@ import StoriesSection from '@/components/StoriesSection';
 import RouteSection from '@/components/RouteSection';
 import PhotoSpotsSection from '@/components/PhotoSpotsSection';
 import HotelsSection from '@/components/HotelsSection';
+import EtiquetteSection from '@/components/EtiquetteSection';
 import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import FAQSection from '@/components/FAQSection';
@@ -45,6 +46,7 @@ export default async function HomePage({
         <RouteSection />
         <PhotoSpotsSection />
         <HotelsSection />
+        <EtiquetteSection />
         <Gallery />
         <Reviews />
         <FAQSection />

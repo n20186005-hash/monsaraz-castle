@@ -11,11 +11,19 @@
     "map": "Mapa",
     "backToHome": "Buoltar al ampeço"
   },
+  "breadcrumb": {
+    "items": [
+      "Ampeço",
+      "Alanteijo",
+      "Évora",
+      "Reguengos de Monsaraz"
+    ]
+  },
   "hero": {
     "title": "Castielho de Monsaraz",
     "subtitle": "Bila mediebal amuralhada · Alentejo, Pertual",
     "rating": "4.7",
-    "reviewCount": "14,966",
+    "reviewCount": "14,967",
     "hours": "Castielho abierto 24 horas",
     "openMaps": "Ber ne l mapa"
   },
@@ -96,7 +104,7 @@
     "plusCode": "Plus Code",
     "plusCodeValue": "CJR9+W8 · Mourão, Pertual",
     "coordinates": "Cordenadas",
-    "coordinatesValue": "38.4431° N, 7.3806° O"
+    "coordinatesValue": "38.4423° N, 7.3817° O"
   },
   "hours": {
     "title": "Horairos de Bejita",
@@ -255,9 +263,68 @@
       }
     ]
   },
+  "etiquette": {
+    "title": "Etiqueta de l Bicitante",
+    "subtitle": "Monsaraz ye un monumento nacional habitado — ua bila adonde las pessonas bíben, trabalhan i drumen. Uns poucos cuidadados fázen la defréncia para proteger l patrimonho i la culidade de bida de quien eiqui mora.",
+    "doTitle": "Faga",
+    "dontTitle": "Ebite",
+    "note": "Guia andependiente i sin fines comerciales: las recomendaçones ambaixo son de carátener giral i neutro. Regras specíficas (drones, acesso, eibentos) múdan — cunfirme siempre ls abisos ne l lugar i la legislaçon an bigor.",
+    "dos": [
+      {
+        "title": "Quedar ne ls caminos i acessos",
+        "desc": "Camine pulas rues i puortas stóricas i nun suba a las muralhas fuora de ls puntos permitidos — la piedra ye antiga i frágil."
+      },
+      {
+        "title": "Falar baxo i respeitar la bida lhocal",
+        "desc": "La bila ye habitada. Pie de las casas, specialmente a la nuite, mantenha un tom çcreto."
+      },
+      {
+        "title": "Lhebar l lhixo cun sigo",
+        "desc": "Nun hai cuntentores an cada squina: lhebe l sou lhixo até als puntos andicados ó de buolta cun sigo."
+      },
+      {
+        "title": "Usar luç burmeilha depuis de anuitecer",
+        "desc": "Na reserba Dark Sky, la luç branca ofusca ls ouserbadors i straga l cielo scuro — ua lanterna de luç burmeilha cunserba la beison noturna de todos."
+      },
+      {
+        "title": "Pedir outorizaçon pa fotografiar pessonas",
+        "desc": "Las loijas i ls moradores son pessonas, nun cenairos: pida lhicença antes de fotografiar anteriores i retratos."
+      },
+      {
+        "title": "Tratar las piedras cun respeito",
+        "desc": "Nun remoba piedras, nun toque ne ls monumentos megalíticos i lhebe solo fotografies cumo recordaçon."
+      }
+    ],
+    "donts": [
+      {
+        "title": "Nun subir a las muralhas ó a la torre fuora de ls acessos",
+        "desc": "Para alhá de l risco de queda, trepar piedras centenárias acelera la sue degradaçon."
+      },
+      {
+        "title": "Nun ousar drones subre la bila",
+        "desc": "Ua bila habitada subre un monumento nacional nun ye lugar pa buolos çcuidados: anforme-se de las regras i respeite la pribacidade."
+      },
+      {
+        "title": "Nun acender fogueiras nin fazer churrascos",
+        "desc": "L risco de ancéndio ne l berano ye altíssemo i l fuogo puode daneficar l patrimonho — hai zonas própias pa pícnicos fuora de las muralhas."
+      },
+      {
+        "title": "Nun deixar beatas ó lhixo ne l chon",
+        "desc": "Para alhá de poluir, ne l berano ua simples ponta de cigarro puode proucar un ancéndio debastador."
+      },
+      {
+        "title": "Nun stacionar an lugares reserbados",
+        "desc": "Ls acessos i las puortas son ousados diariamente por moradores i serbícios — respeite las zonas proibidas i ls abisos."
+      },
+      {
+        "title": "Nun ousar luçes brancas fuortes a la nuite",
+        "desc": "Na bila scura, un holofote ó l flash alto stragan l momento pa quien miras las streilhas — i acordan quien drumie."
+      }
+    ]
+  },
   "stories": {
     "title": "Stórias i Lendas",
-    "subtitle": "Por trás de las muralhas: seis eipisódios berdadeiros — i ua lenda biba — que moldórun Monsaraz.",
+    "subtitle": "Por trás de las muralhas: nuobe eipisódios berdadeiros — antre la stória i la lenda — que moldórun Monsaraz.",
     "items": [
       {
         "badge": "Stória decumentada",
@@ -288,6 +355,21 @@
         "badge": "Stória moderna",
         "title": "Las chabes de l castielho i l renacimiento streilado",
         "text": "An 1987, l pobo de Monsaraz oufreciu simbolicamente las chabes de l sou castielho al Persidente Mário Soares — un gesto d'amisade dua bila cuja fortaleza yá nun tenie qualquiera uso melitar. Depuis beno l Alqueba: la grande barraige anchiu l bal depuis de 2002, trasformando la fortaleza de frunteira nun mirandouro subre la auga. An 2011, la region fui certificada cumo Dark Sky Alqueba, l purmeiro çtino mundial de Turismo Starlight. L bieilo sentinela de la frunteira beiga agora la auga, las binhas — i las streilhas."
+      },
+      {
+        "badge": "Stória decumentada",
+        "title": "L fuoral de 1276 i ls dreitos de la bila",
+        "text": "An 1276, l rei D. Afonso III cuncediu a Monsaraz un fuoral — ua carta que fixaba por scrito ls dreitos i deberes de la bila. Tenir fuoral seneficaba poder ourganizar l sou própio cunceilho, eileger juízes i oufeciales i rializar mercado: senhales d'outonomie que atraían giente i comércio pa la frunteira. Yá na trasniçon pa la era moderna, l fuoral fui renobado ne l ámbito de las reformas manuelinas — proba dua bila que cuntinaba a cuntar."
+      },
+      {
+        "badge": "Stória decumentada",
+        "title": "L retrato de 1510: l Lhibro de las Fuortalezas",
+        "text": "Por buolta de 1510, l rei D. Manuol I ancarregou l zeñador Duarte de Armas de percorrer l reino i zeñar ls castielhos de la frunteira. L resultado — l célebre Lhibro de las Fuortalezas — cunserba ua de las eimaiges mais antiguas de Monsaraz, mostrando la torre de menagem, las muralhas i la çposiçon de las puortas tal cumo eisistían hai mais de 500 anhos. An 2017, l manuscrito fui anscrito ne l registro pertués de l porgrama Memória de l Mundo de la UNESCO."
+      },
+      {
+        "badge": "Para alhá de las muralhas",
+        "title": "L hourizonte sagrado: menires i crómecos alredror",
+        "text": "Monsaraz nun queda solo ne l cimo dua colina — queda ne l coraçon dua de las regiones megalíticas mais ricas de la Ouropa. A poucos quilómetros ércen-se menires i crómecos lhebantados miles d'anhos antes de eisistir castielho. L menir de l Outairo, quaije a las puortas de la bila, ye un eicelente punto de partida; mais lhoinge, ls crómecos de l Xerez fázen un de ls cunjuntos de menires mais notables de l Alanteijo. Cumbinar l castielho cun estos sítios ye ua de las formas mais gratificantes de bejitar la region."
       }
     ]
   },
@@ -425,6 +507,18 @@
       {
         "q": "Bal la pena drumir an Monsaraz?",
         "a": "Se pudir, sim — la bila buoita a quedar balieira al pór de l sol i quedamos culas muralhas, l lago i la reserve de cielo scuro quaije solo para nós. Ls quartos son poucos, por esso reserbe cun meses de antecedéncia pa ls fins de sumana de berano, ó quede an Reguengos de Monsaraz ó na borda de l Alqueba."
+      },
+      {
+        "q": "Ye possible bejitar cun ninos ó cun un carrinho de bebe?",
+        "a": "Sim. La bila ye un spácio público a la lhuorte i acolhedor pa ninos, mas l relebo ye eisigente: las rues suben, son de calçada i ténen scalas. Un carrinho todo-tarreinho ajuda, ambora nas ruelas mais streitas seia preferible ua mochila de trasporte. Ne l berano, proteja ls ninos de la calor — hai pouca sumbra — i lhebe sempre auga."
+      },
+      {
+        "q": "Puodo lhiebar l miu can?",
+        "a": "An giral, sim: Monsaraz ye ua bila abierta i ye quemun ber bejitantes cun canes. Traga l'animal cun trela i cuidado nas zonas de muralhas i scalas, recolha ls dejetos i nina-se de que, ne l berano, la calçada quenta muito. Fuora de ls spácios cun antrada paga, aplican-se las regras normales de spácio público — cunfirme siempre ls abisos ne l lugar."
+      },
+      {
+        "q": "Puodo bolar un drone an Monsaraz?",
+        "a": "L buolo de drones an Pertual ye regulado pula AAN (Outoridade Nacional de Abiaçon), andependientemente de l lhocal — i ua bila habitada que ye tamien monumento nacional eisige cuidado redobrado. Antes de bolar, cunfirme las regras an bigor i respeite la pribacidade de ls moradores, l patrimonho i ls bejitantes. Para oubtener bistas árias de l castielho, ls mirandouros acessibles a pie son, de lhoinge, la oupçon mais simples i legal."
       }
     ]
   },
@@ -462,7 +556,9 @@
   "mapSection": {
     "title": "Mapa i Lhocalizaçon",
     "subtitle": "Largo de l Castielho, Monsaraz, 7200-175 Reguengos de Monsaraz, Pertual",
-    "openMaps": "Ber ne l Google Maps"
+    "openMaps": "Ber ne l Google Maps",
+    "authority": "Fuonte oufecial",
+    "authorityLink": "Cámara Munecipal de Reguengos de Monsaraz — castielho i fortificaçon mediebal"
   },
   "footer": {
     "rights": "© 2026 Castielho de Monsaraz — guia andependiente de l bejitante.",

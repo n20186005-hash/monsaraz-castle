@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "check:i18n": "node scripts/check-i18n.mjs",
-    "optimize:images": "node scripts/optimize-gallery.mjs"
+    "optimize:images": "node scripts/optimize-gallery.mjs",
+    "optimize:images:pass2": "node scripts/optimize-gallery-pass2.mjs"
   },
   "dependencies": {
     "next": "^15.1.0",

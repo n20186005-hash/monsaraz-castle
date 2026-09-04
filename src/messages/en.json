@@ -11,11 +11,19 @@
     "map": "Map",
     "backToHome": "Back to Home"
   },
+  "breadcrumb": {
+    "items": [
+      "Home",
+      "Alentejo",
+      "Évora",
+      "Reguengos de Monsaraz"
+    ]
+  },
   "hero": {
     "title": "Monsaraz Castle",
     "subtitle": "Castelo de Monsaraz · Alentejo, Portugal",
     "rating": "4.7",
-    "reviewCount": "14,966",
+    "reviewCount": "14,967",
     "hours": "Castle open 24 hours",
     "openMaps": "View on Map"
   },
@@ -96,7 +104,7 @@
     "plusCode": "Plus Code",
     "plusCodeValue": "CJR9+W8 · Mourão, Portugal",
     "coordinates": "Coordinates",
-    "coordinatesValue": "38.4431° N, 7.3806° W"
+    "coordinatesValue": "38.4423° N, 7.3817° W"
   },
   "hours": {
     "title": "Opening Hours",
@@ -255,9 +263,68 @@
       }
     ]
   },
+  "etiquette": {
+    "title": "Visitor Etiquette",
+    "subtitle": "Monsaraz is a lived-in national monument — a village where people live, work and sleep. A handful of thoughtful habits goes a long way in protecting the heritage and the quality of life of those who call it home.",
+    "doTitle": "Do",
+    "dontTitle": "Avoid",
+    "note": "Independent, non-commercial guide: the recommendations below are general and neutral. Specific rules (drones, access, events) change — always check on-site notices and current legislation.",
+    "dos": [
+      {
+        "title": "Stay on the paths and access ways",
+        "desc": "Walk through the historic streets and gates and do not climb the walls except at permitted points — the stone is ancient and fragile."
+      },
+      {
+        "title": "Keep your voice down and respect local life",
+        "desc": "The village is inhabited. Near homes, especially at night, keep a discreet tone."
+      },
+      {
+        "title": "Take your litter with you",
+        "desc": "There are no bins on every corner: carry your rubbish to the indicated points or back with you."
+      },
+      {
+        "title": "Use red light after dark",
+        "desc": "In the Dark Sky reserve, white light dazzles observers and ruins the dark sky — a red-light torch preserves everyone's night vision."
+      },
+      {
+        "title": "Ask permission before photographing people",
+        "desc": "Shops and residents are people, not scenery: ask before photographing interiors and portraits."
+      },
+      {
+        "title": "Treat the stones with respect",
+        "desc": "Do not remove stones, touch megalithic monuments, or take anything but photographs as a souvenir."
+      }
+    ],
+    "donts": [
+      {
+        "title": "Don't climb the walls or the keep outside the access points",
+        "desc": "Apart from the risk of falling, climbing century-old stone accelerates its decay."
+      },
+      {
+        "title": "Don't fly drones over the village",
+        "desc": "A lived-in village on a national monument is no place for careless flights: check the rules and respect privacy."
+      },
+      {
+        "title": "Don't light fires or have barbecues",
+        "desc": "Summer fire risk is extreme and fire can damage the heritage — picnic areas exist outside the walls."
+      },
+      {
+        "title": "Don't drop cigarette butts or litter",
+        "desc": "Besides polluting, in summer a single butt can start a devastating fire."
+      },
+      {
+        "title": "Don't park in reserved spaces",
+        "desc": "Residents and services use the access ways and gates daily — respect restricted zones and signs."
+      },
+      {
+        "title": "Don't use strong white lights at night",
+        "desc": "In the dark village, a floodlight or bright flash spoils the moment for stargazers — and wakes the people who sleep."
+      }
+    ]
+  },
   "stories": {
     "title": "Stories & Legends",
-    "subtitle": "Behind the walls: six true episodes — and one living legend — that shaped Monsaraz.",
+    "subtitle": "Behind the walls: nine true episodes — between history and legend — that shaped Monsaraz.",
     "items": [
       {
         "badge": "Documented history",
@@ -288,6 +355,21 @@
         "badge": "Modern story",
         "title": "The keys of the castle and the starry revival",
         "text": "In 1987 the people of Monsaraz symbolically offered the keys of their castle to President Mário Soares — a gesture of friendship from a town whose fortress no longer had any military purpose. Then came Alqueva: the great dam filled the valley after 2002, turning the border fortress into a lakeside viewpoint. In 2011 the region was certified Dark Sky Alqueva, the world's first Starlight tourism destination. The old sentinel of the frontier now watches over water, vineyards — and the stars."
+      },
+      {
+        "badge": "Documented history",
+        "title": "The 1276 charter: rights for the hilltop town",
+        "text": "In 1276 King Afonso III granted Monsaraz a foral — a charter that set down in writing the town's rights and duties. Holding a charter meant the town could run its own council, elect judges and officials and hold a market: marks of self-rule that drew people and trade to this frontier. In the early modern era the charter was renewed as part of the Manueline reforms — proof that the town still counted."
+      },
+      {
+        "badge": "Documented history",
+        "title": "A portrait from c. 1510: the Book of Fortresses",
+        "text": "Around 1510, King Manuel I commissioned the draughtsman Duarte de Armas to travel the kingdom and draw its border castles. The result — the celebrated Book of Fortresses — preserves one of the oldest known images of Monsaraz, showing the keep, the walls and the layout of the gates as they stood more than 500 years ago. In 2017 the illuminated manuscript was added to the Portuguese register of UNESCO's Memory of the World programme."
+      },
+      {
+        "badge": "Beyond the walls",
+        "title": "The sacred horizon: menhirs and stone circles nearby",
+        "text": "Monsaraz does not only crown a hill — it sits at the heart of one of Europe's richest megalithic regions. A few kilometres away stand menhirs and stone circles raised thousands of years before the castle existed. The Outeiro menhir, almost at the gates of the village, is a great starting point; further afield, the stone circles of Xerez form one of the Alentejo's most remarkable assemblies of standing stones. Combining the castle with these sites is one of the most rewarding ways to explore the region."
       }
     ]
   },
@@ -425,6 +507,18 @@
       {
         "q": "Is it worth staying overnight in Monsaraz?",
         "a": "If you can, yes — the village empties after sunset and you get the walls, the lake and the Dark Sky reserve almost to yourself. Rooms are few, so book months in advance for summer weekends, or stay in Reguengos de Monsaraz or by the lakeshore."
+      },
+      {
+        "q": "Can I visit with children or a pushchair?",
+        "a": "Yes. The village is an open-air public space and welcoming for children, but the terrain is demanding: the streets climb, are cobbled and have steps. An all-terrain buggy helps, though on the narrowest lanes a carrier is preferable. In summer, shield children from the heat — there is little shade — and always carry water."
+      },
+      {
+        "q": "Can I bring my dog?",
+        "a": "Generally, yes: Monsaraz is an open village and it is common to see visitors with dogs. Keep your dog on a lead and be careful around the walls and steps, pick up after them, and remember that the cobbles get very hot in summer. Outside ticketed interiors, the usual public-space rules apply — always check any notices on site."
+      },
+      {
+        "q": "Can I fly a drone over Monsaraz?",
+        "a": "Drone flights in Portugal are regulated by the AAN (the national civil aviation authority) wherever you are — and a lived-in village that is also a national monument calls for extra care. Before flying, check the rules currently in force and respect the privacy of residents, the heritage and other visitors. For aerial-style views of the castle, the walkable viewpoints are by far the simplest, fully legal option."
       }
     ]
   },
@@ -462,7 +556,9 @@
   "mapSection": {
     "title": "Map & Location",
     "subtitle": "Largo do Castelo, Monsaraz, 7200-175 Reguengos de Monsaraz, Portugal",
-    "openMaps": "View on Google Maps"
+    "openMaps": "View on Google Maps",
+    "authority": "Official source",
+    "authorityLink": "Reguengos de Monsaraz Municipality — medieval castle and fortification"
   },
   "footer": {
     "rights": "© 2026 Monsaraz Castle — independent visitor guide.",

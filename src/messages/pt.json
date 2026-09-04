@@ -11,11 +11,19 @@
     "map": "Mapa",
     "backToHome": "Voltar ao início"
   },
+  "breadcrumb": {
+    "items": [
+      "Início",
+      "Alentejo",
+      "Évora",
+      "Reguengos de Monsaraz"
+    ]
+  },
   "hero": {
     "title": "Castelo de Monsaraz",
     "subtitle": "Aldeia medieval amuralhada · Alentejo, Portugal",
     "rating": "4.7",
-    "reviewCount": "14,966",
+    "reviewCount": "14,967",
     "hours": "Castelo aberto 24 horas",
     "openMaps": "Ver no mapa"
   },
@@ -96,7 +104,7 @@
     "plusCode": "Plus Code",
     "plusCodeValue": "CJR9+W8 · Mourão, Portugal",
     "coordinates": "Coordenadas",
-    "coordinatesValue": "38.4431° N, 7.3806° O"
+    "coordinatesValue": "38.4423° N, 7.3817° O"
   },
   "hours": {
     "title": "Horários de Visita",
@@ -255,9 +263,68 @@
       }
     ]
   },
+  "etiquette": {
+    "title": "Etiqueta do Visitante",
+    "subtitle": "Monsaraz é um monumento nacional habitado — uma vila onde as pessoas vivem, trabalham e dormem. Um punhado de cuidados faz a diferença para proteger o património e a qualidade de vida de quem cá mora.",
+    "doTitle": "Faça",
+    "dontTitle": "Evite",
+    "note": "Guia independente e sem fins lucrativos: as recomendações abaixo são de carácter geral e neutro. Regras específicas (drones, acesso, eventos) mudam — confirme sempre os avisos no local e a legislação em vigor.",
+    "dos": [
+      {
+        "title": "Ficar nos caminhos e acessos",
+        "desc": "Caminhe pelas ruas e portas históricas e não suba às muralhas fora dos pontos permitidos — a pedra é antiga e frágil."
+      },
+      {
+        "title": "Falar baixo e respeitar a vida local",
+        "desc": "A vila é habitada. Por perto de casas, especialmente à noite, mantenha um tom discreto."
+      },
+      {
+        "title": "Levar o lixo consigo",
+        "desc": "Não há contentores em cada esquina: leve o seu lixo até aos pontos indicados ou de volta consigo."
+      },
+      {
+        "title": "Usar luz vermelha depois de anoitecer",
+        "desc": "Na reserva Dark Sky, a luz branca ofusca os observadores e estraga o céu escuro — uma lanterna de luz vermelha preserva a visão noturna de todos."
+      },
+      {
+        "title": "Pedir autorização para fotografar pessoas",
+        "desc": "As lojas e os moradores são pessoas, não cenários: peça licença antes de fotografar interiores e retratos."
+      },
+      {
+        "title": "Tratar as pedras com respeito",
+        "desc": "Não remova pedras, não toque nos monumentos megalíticos e leve apenas fotografias como recordação."
+      }
+    ],
+    "donts": [
+      {
+        "title": "Não subir às muralhas ou à torre fora dos acessos",
+        "desc": "Além do risco de queda, trepar pedras centenárias acelera a sua degradação."
+      },
+      {
+        "title": "Não usar drones sobre a vila",
+        "desc": "Uma vila habitada sobre um monumento nacional não é lugar para voos descuidados: informe-se das regras e respeite a privacidade."
+      },
+      {
+        "title": "Não acender fogueiras nem fazer churrascos",
+        "desc": "O risco de incêndio no verão é altíssimo e o fogo pode danificar o património — há zonas próprias para piqueniques fora das muralhas."
+      },
+      {
+        "title": "Não deixar beatas ou lixo no chão",
+        "desc": "Além de poluir, no verão uma simples ponta de cigarro pode provocar um incêndio devastador."
+      },
+      {
+        "title": "Não estacionar em lugares reservados",
+        "desc": "Os acessos e as portas são usados diariamente por moradores e serviços — respeite as zonas proibidas e os avisos."
+      },
+      {
+        "title": "Não usar luzes brancas fortes à noite",
+        "desc": "Na vila escura, um holofote ou o flash alto estragam o momento para quem observa as estrelas — e acordam quem dorme."
+      }
+    ]
+  },
   "stories": {
     "title": "Histórias e Lendas",
-    "subtitle": "Por detrás das muralhas: seis episódios verdadeiros — e uma lenda viva — que moldaram Monsaraz.",
+    "subtitle": "Por detrás das muralhas: nove episódios verdadeiros — entre a história e a lenda — que moldaram Monsaraz.",
     "items": [
       {
         "badge": "História documentada",
@@ -288,6 +355,21 @@
         "badge": "História moderna",
         "title": "As chaves do castelo e o renascimento estrelado",
         "text": "Em 1987, o povo de Monsaraz ofereceu simbolicamente as chaves do seu castelo ao Presidente Mário Soares — um gesto de amizade de uma vila cuja fortaleza já não tinha qualquer uso militar. Depois veio o Alqueva: a grande barragem encheu o vale após 2002, transformando a fortaleza de fronteira num miradouro sobre a água. Em 2011, a região foi certificada como Dark Sky Alqueva, o primeiro destino mundial de Turismo Starlight. O velho sentinela da fronteira vigia agora a água, as vinhas — e as estrelas."
+      },
+      {
+        "badge": "História documentada",
+        "title": "O foral de 1276 e os direitos da vila",
+        "text": "Em 1276, o rei D. Afonso III concedeu a Monsaraz um foral — uma carta que fixava por escrito os direitos e deveres da vila. Ter foral significava poder organizar o próprio concelho, eleger juízes e oficiais e realizar mercado: sinais de autonomia que atraíam gentes e comércio para a fronteira. Já na transição para a época moderna, o foral seria renovado no quadro das reformas manuelinas — prova de uma vila que continuava a contar."
+      },
+      {
+        "badge": "História documentada",
+        "title": "O retrato de 1510: o Livro das Fortalezas",
+        "text": "Por volta de 1510, o rei D. Manuel I encarregou o desenhador Duarte de Armas de percorrer o reino e desenhar os castelos da fronteira. O resultado — o célebre Livro das Fortalezas — preserva uma das imagens mais antigas de Monsaraz, mostrando a torre de menagem, as muralhas e a disposição das portas tal como existiam há mais de 500 anos. Em 2017, o manuscrito foi inscrito no registo português do programa Memória do Mundo da UNESCO."
+      },
+      {
+        "badge": "Para além das muralhas",
+        "title": "O horizonte sagrado: menires e cromeleques à volta",
+        "text": "Monsaraz não fica apenas no topo de uma colina — fica no coração de uma das regiões megalíticas mais ricas da Europa. A poucos quilómetros erguem-se menires e cromeleques levantados milhares de anos antes de existir castelo. O menir do Outeiro, quase às portas da vila, é um ótimo ponto de partida; mais longe, os cromeleques do Xerez formam um dos conjuntos de menires mais notáveis do Alentejo. Combinar o castelo com estes sítios é uma das formas mais gratificantes de visitar a região."
       }
     ]
   },
@@ -425,6 +507,18 @@
       {
         "q": "Vale a pena dormir em Monsaraz?",
         "a": "Se puder, sim — a vila esvazia-se ao pôr do sol e ficamos com as muralhas, o lago e a reserva de céu escuro quase só para nós. Os quartos são poucos, por isso reserve com meses de antecedência para os fins de semana de verão, ou fique em Reguengos de Monsaraz ou na margem do Alqueva."
+      },
+      {
+        "q": "É possível visitar com crianças ou com um carrinho de bebé?",
+        "a": "Sim. A vila é um espaço público ao ar livre e acolhedor para crianças, mas o relevo é exigente: as ruas sobem, são empedradas e têm degraus. Um carrinho todo-o-terreno ajuda, embora nas ruelas mais estreitas seja preferível uma mochila de transporte. No verão, proteja as crianças do calor — há pouca sombra — e leve sempre água."
+      },
+      {
+        "q": "Posso levar o meu cão?",
+        "a": "Em geral, sim: Monsaraz é uma vila aberta e é comum ver visitantes acompanhados de cães. Tenha o animal com trela e cuidado nas zonas de muralhas e escadas, recolha os dejetos e lembre-se de que, no verão, a calçada aquece muito. Fora dos espaços com entrada paga, aplicam-se as regras normais de espaço público — confirme sempre os avisos no local."
+      },
+      {
+        "q": "Posso voar um drone em Monsaraz?",
+        "a": "O voo de drones em Portugal é regulado pela AAN (Autoridade Nacional da Aviação), independentemente do local — e uma vila habitada que é também monumento nacional exige cuidado redobrado. Antes de voar, confirme as regras em vigor e respeite a privacidade dos moradores, o património e os visitantes. Para obter vistas aéreas do castelo, os miradouros acessíveis a pé são, de longe, a opção mais simples e legal."
       }
     ]
   },
@@ -462,7 +556,9 @@
   "mapSection": {
     "title": "Mapa e Localização",
     "subtitle": "Largo do Castelo, Monsaraz, 7200-175 Reguengos de Monsaraz, Portugal",
-    "openMaps": "Ver no Google Maps"
+    "openMaps": "Ver no Google Maps",
+    "authority": "Fonte oficial",
+    "authorityLink": "Câmara Municipal de Reguengos de Monsaraz — Castelo e fortificação medieval"
   },
   "footer": {
     "rights": "© 2026 Castelo de Monsaraz — guia independente do visitante.",

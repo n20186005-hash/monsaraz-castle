@@ -27,7 +27,7 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5558.205575143722!2d-7.381724900000001!3d38.4422826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd1734e8331389c7%3A0x1d8a185125af5706!2sMonsaraz%20Castle!5e1!3m2!1szh-CN!2s!4v1788502462025!5m2!1szh-CN!2s"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5558.205575143722!2d-7.381724900000001!3d38.4422826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd1734e8331389c7%3A0x1d8a185125af5706!2sMonsaraz%20Castle!5e1!3m2!1szh-CN!2s!4v1788512086178!5m2!1szh-CN!2s"
             width="100%"
             height="450"
             style={{ border: 0 }}
@@ -41,7 +41,7 @@ export default function MapEmbed() {
         {/* Open in Google Maps */}
         <div className="mt-6 flex justify-center">
           <a
-            href="https://maps.app.goo.gl/wFFoJUqnrAQXGdVJ8"
+            href="https://maps.app.goo.gl/wPN3d4exqLmb8N7M8"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium text-white transition-colors"
@@ -59,6 +59,20 @@ export default function MapEmbed() {
             </svg>
           </a>
         </div>
+
+        {/* Government / official tourism authority link */}
+        <p className="mt-4 text-center text-xs leading-relaxed" style={{ color: 'var(--text-muted)' }}>
+          {t('authority')}:{' '}
+          <a
+            href="https://www.cm-reguengos-monsaraz.pt/locais/castelo-e-fortificacao-medieval/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline hover:opacity-80"
+            style={{ color: 'var(--accent)' }}
+          >
+            {t('authorityLink')}
+          </a>
+        </p>
       </div>
     </section>
   );
