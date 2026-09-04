@@ -53,7 +53,6 @@ function PhotoSpotCard({ name, description, index }: { name: string; description
       className="rounded-xl overflow-hidden"
       style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
     >
-      {/* Placeholder image area */}
       <div
         className="aspect-video flex items-center justify-center"
         style={{ background: 'linear-gradient(135deg, var(--bg-secondary), var(--bg-tertiary))' }}

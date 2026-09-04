@@ -1,3 +1,5 @@
+'use client';
+
 import { useTranslations, useMessages } from 'next-intl';
 
 export default function Intro() {

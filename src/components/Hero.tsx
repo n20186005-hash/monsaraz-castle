@@ -1,16 +1,27 @@
-import { useTranslations } from 'next-intl';
+'use client';
+
+import { useTranslations, useLocale } from 'next-intl';
+
+const heroAlt: Record<string, string> = {
+  pt: 'Castelo de Monsaraz sobre a vila medieval de Monsaraz, Alentejo, Portugal',
+  en: 'Monsaraz Castle overlooking the medieval walled village of Monsaraz, Alentejo, Portugal',
+  zh: '蒙萨拉什城堡俯瞰中世纪古镇蒙萨拉什(葡萄牙阿连特茹)',
+  mwl: 'Castielho de Monsaraz debre la bila amuralhada mediebal de Monsaraz, Alanteijo, Pertual',
+};
 
 export default function Hero() {
   const t = useTranslations('hero');
+  const locale = useLocale();
 
   return (
     <section className="relative min-h-screen flex items-end pb-16 sm:pb-24 overflow-hidden">
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="/gallery/monsaraz-castle (5).jpg"
-          alt="Monsaraz Castle"
+          src="/gallery/monsaraz-castle-5.jpg"
+          alt={heroAlt[locale] || heroAlt.pt}
           className="w-full h-full object-cover"
+          fetchPriority="high"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
       </div>
@@ -42,7 +53,7 @@ export default function Hero() {
               <span className="text-white text-sm">{t('hours')}</span>
             </div>
             <a
-              href="https://maps.app.goo.gl/WLjBvPFtdXS7pBpXA"
+              href="https://maps.app.goo.gl/wFFoJUqnrAQXGdVJ8"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-1.5 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2 hover:bg-white/25 transition-colors"

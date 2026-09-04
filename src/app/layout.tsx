@@ -5,8 +5,8 @@ type Props = {
   children: ReactNode;
 };
 
-// Since we have a root `not-found.tsx` page, a layout file
-// is required, even if it's just passing children through.
+// The root layout simply hosts the locale segments: the <html>/<body>
+// elements and per-language <head> output live in `[locale]/layout.tsx`.
 export default function RootLayout({ children }: Props) {
   return children;
 }

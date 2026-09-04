@@ -1,374 +1,600 @@
 {
   "meta": {
-    "title": "Monsaraz Castle | Medieval Castle & Stunning Panoramas in Portugal",
-    "description": "Complete guide to exploring Monsaraz Castle in Portugal. Learn about opening hours, transportation, and photo spots."
+    "title": "Castelo de Monsaraz (Monsaraz) — Guia do Visitante, História e Vistas",
+    "description": "Guia completo para visitar o Castelo de Monsaraz, a fortaleza medieval no topo da colina do Alentejo com vista para o Alqueva: horários, história, transportes, serviços, meteorologia e locais para fotografar."
   },
   "header": {
-    "home": "Home",
-    "gallery": "Gallery",
-    "reviews": "Reviews",
-    "map": "Map",
-    "backToHome": "Back to Home"
+    "gallery": "Galeria",
+    "facilities": "Serviços",
+    "stories": "História & Lendas",
+    "faq": "Perguntas",
+    "map": "Mapa",
+    "backToHome": "Voltar ao início"
   },
   "hero": {
-    "title": "Monsaraz Castle",
-    "subtitle": "Castelo de Monsaraz · Portugal",
+    "title": "Castelo de Monsaraz",
+    "subtitle": "Aldeia medieval amuralhada · Alentejo, Portugal",
     "rating": "4.7",
-    "reviewCount": "14,686",
-    "hours": "Open 24 Hours",
-    "openMaps": "View Location"
+    "reviewCount": "14,966",
+    "hours": "Castelo aberto 24 horas",
+    "openMaps": "Ver no mapa"
   },
   "intro": {
-    "title": "Explore Monsaraz Castle",
-    "description": "Monsaraz Castle, located in the Alentejo region of Portugal, is a historic medieval castle. Perched high on a hilltop, it overlooks the magnificent Alqueva Dam and the vast surrounding plains.\n\nWalking along the ancient walls, you can feel the rich history while enjoying unparalleled panoramic views. It is a must-visit destination for photography enthusiasts and history buffs.",
+    "title": "Uma Fortaleza no Topo da Colina, Sobre o Alqueva",
+    "description": "O Castelo de Monsaraz coroa uma das aldeias de colina mais bonitas do Alentejo português. Das suas muralhas avistam-se as planícies onduladas e as águas azuis da albufeira do Alqueva, um dos maiores lagos artificiais da Europa Ocidental.\n\nA aldeia intramuros mudou pouco ao longo dos séculos: casas caiadas, ruelas empedradas, portas medievais e um largo silencioso fazem o tempo parecer parado. Como os arredores estão protegidos da poluição luminosa, este mesmo outeiro faz parte da Reserva Dark Sky Alqueva, um dos melhores lugares de Portugal para observar as estrelas.\n\nEste guia reúne tudo o que precisa para preparar a visita: como chegar, o que ver, os serviços disponíveis, o tempo atual e a história por detrás das pedras.",
     "visitGuide": {
-      "title": "Visiting Tips",
+      "title": "Dicas de Visita",
       "items": [
-        "Recommended to visit in the early morning or evening; the sunset views are the most captivating.",
-        "The castle area features cobblestone streets; please wear comfortable walking shoes.",
-        "Summer temperatures can be high; ensure you have sun protection."
+        "Chegue de manhã cedo ou ao fim da tarde para percorrer as ruas quase sozinho e aproveitar a melhor luz.",
+        "Use calçado confortável: as ruas são todas em calçada e com alguns troços inclinados.",
+        "Nos dias de verão o calor é muito forte e há pouco sombra — leve água, protetor solar e chapéu.",
+        "Para observar as estrelas, planeie uma noite de céu limpo e sem lua (consulte a secção de meteorologia abaixo)."
       ]
     },
     "alsoKnownAs": {
-      "title": "Attraction Highlights",
+      "title": "O Que Não Pode Perder",
       "items": [
-        "Well-preserved medieval walls and architecture",
-        "Overlooking Alqueva, Europe's largest artificial lake",
-        "Unique Alentejo charming town",
-        "Excellent stargazing spot"
+        "Castelo medieval de colina e vila amuralhada",
+        "Monumento Nacional desde 1946",
+        "Vistas sobre o Alqueva, um dos maiores lagos artificiais da Europa Ocidental",
+        "Dentro da Reserva Dark Sky Alqueva, destino Starlight certificado",
+        "Porta de entrada para quintas de vinho, monumentos megalíticos e a vila do barro de São Pedro do Corval"
       ]
     }
   },
   "knowledge": {
-    "title": "Discover the Charm of Monsaraz Castle",
+    "title": "A História do Castelo de Monsaraz",
+    "lead": "Por detrás das muralhas de postal esconde-se mais de oito séculos de história de fronteira portuguesa — da Reconquista e dos Cavaleiros Templários a uma fortaleza reconstruída por reis, abalada por guerras e renascida como lugar de silêncio, vinho e estrelas.",
     "sections": [
       {
-        "id": "history",
-        "title": "History",
-        "content": "Built in the 13th century, Monsaraz Castle was a crucial part of Portugal's border defense system. It witnessed multiple clashes between Moors and Christians and played a key role in the Reconquista."
+        "id": "origins",
+        "title": "Uma Colina de Fronteira Muito Antiga",
+        "content": "Há milhares de anos que alguém observa esta paisagem. As planícies alentejanas em redor de Monsaraz guardam um dos conjuntos megalíticos mais densos da Europa — menires e cromeleques erguidos muito antes de existir castelo — e estradas romanas cruzaram outrora a região.\n\nNo período islâmico, um pequeno povoado fortificado vigiava esta zona de fronteira. A posição dominante da colina sobre o vale do Guadiana explica porque todas as potências da região quiseram controlá-la."
+      },
+      {
+        "id": "reconquista",
+        "title": "A Reconquista e Geraldo Sem Pavor",
+        "content": "Em 1167, o lendário guerreiro de fronteira Geraldo Sem Pavor conquistou Monsaraz aos muçulmanos em nome do primeiro rei de Portugal, D. Afonso Henriques.\n\nA conquista não foi definitiva. As forças almóadas retomaram a região em 1175, e só depois das campanhas decisivas de 1232 é que Monsaraz passou definitivamente para o Reino de Portugal. O castelo tornou-se então um elo essencial na cadeia de fortalezas que defendiam o jovem reino."
+      },
+      {
+        "id": "templars",
+        "title": "Um Castelo dos Cavaleiros Templários",
+        "content": "Em 1232, o rei D. Sancho II doou Monsaraz à Ordem dos Cavaleiros Templários, cuja experiência de guerra de fronteira os tornava guardiões ideais desta zona de marcha. Um foral concedido pelo rei D. Afonso III em 1276 confirmou a importância da vila.\n\nQuando os Templários foram extintos no início do século XIV, os seus bens portugueses passaram para a Ordem de Cristo. Dentro da igreja matriz de Santa Maria da Lagoa pode ainda ver-se o túmulo de Gomes Martins Silvestre, nobre ligado à Ordem."
       },
       {
         "id": "architecture",
-        "title": "Architecture & Views",
-        "content": "Constructed mainly from schist and limestone, the castle blends perfectly with the natural environment. From the main tower, you get a 360-degree view of the stunning Alentejo landscape."
+        "title": "Muralhas, Portas e Torre de Menagem",
+        "content": "Por volta de 1310, o rei D. Dinis mandou reconstruir e reforçar o castelo — obras que moldaram em grande parte a fortaleza que hoje se vê. As muralhas, em xisto local com cantaria de granito junto às portas, formam um perímetro oval à volta da vila.\n\nAs muralhas eram rasgadas por quatro portas: a Porta da Vila, entrada principal encimada por uma torre de relógio acrescentada em 1692, a Porta de Évora, a Porta da Alcoba e a Porta da Cisterna. No interior, o paço fortificado e a sua torre de menagem coroam o ponto mais alto da colina. O Livro das Fortalezas de Duarte de Armas, do início do século XVI, preserva um dos desenhos mais antigos de Monsaraz."
       },
       {
-        "id": "experience",
-        "title": "Core Experience",
-        "content": "Pass through the ancient gates, stroll along narrow streets exploring white houses and traditional craft shops, and wait for the sunset at the highest point of the castle."
+        "id": "decline",
+        "title": "De Praça de Guerra a Monumento Nacional",
+        "content": "Durante a Guerra da Restauração (1640–1668), Monsaraz voltou a olhar a fronteira espanhola. Engenheiros militares franceses ao serviço de Portugal, entre eles Nicolau de Langres e Jean Gillot, desenharam fortificações abaluartadas à volta das muralhas antigas, e o Forte de São Bento foi erguido fora da vila.\n\nQuando a paz voltou e a sede do concelho desceu para Reguengos de Monsaraz no século XIX, a vila do alto perdeu o seu papel militar e administrativo — e, paradoxalmente, ficou belamente intocada. Em 1946, o castelo e as muralhas foram classificados como Monumento Nacional. Em 1987, a vila ofereceu simbolicamente as chaves do castelo ao Presidente da República, Mário Soares, aquando da sua visita."
+      },
+      {
+        "id": "alqueva",
+        "title": "O Alqueva e o Céu Estrelado",
+        "content": "A maior mudança da paisagem chegou no século XXI. A construção da barragem do Alqueva (1995–2002) criou um dos maiores lagos artificiais da Europa Ocidental, inundando o vale e aproximando a água do castelo.\n\nA região descobriu então um segundo tesouro: o seu céu noturno, excecionalmente limpo e escuro. A zona envolvente foi certificada em 2011 como Dark Sky Alqueva, o primeiro destino do mundo a receber a certificação de Turismo Starlight. Hoje, erguer os olhos a partir do adro do castelo numa noite sem lua é uma das experiências mais memoráveis do Alentejo."
       }
     ]
   },
   "basicInfo": {
-    "title": "Basic Information",
-    "officialName": "Official Name",
+    "title": "Informações Essenciais",
+    "officialName": "Nome Oficial",
     "officialNameValue": "Castelo de Monsaraz",
-    "type": "Attraction Type",
-    "typeValue": "Castle",
-    "country": "Country",
+    "type": "Tipo de Atração",
+    "typeValue": "Castelo medieval e vila amuralhada de colina · Monumento Nacional",
+    "country": "País",
     "countryValue": "Portugal",
-    "city": "City",
-    "cityValue": "Évora",
-    "googleRating": "Google Rating",
-    "address": "Address",
-    "addressValue": "Largo do Castelo 1, 7200-175 Évora, Portugal",
+    "region": "Região",
+    "regionValue": "Alentejo · Distrito de Évora · Concelho de Reguengos de Monsaraz",
+    "city": "Localidade",
+    "cityValue": "Monsaraz",
+    "googleRating": "Classificação Google",
+    "address": "Morada",
+    "addressValue": "Largo do Castelo, Monsaraz, 7200-175 Reguengos de Monsaraz, Portugal",
     "plusCode": "Plus Code",
-    "plusCodeValue": "CJR9+V8 Mourão, Portugal"
+    "plusCodeValue": "CJR9+W8 · Mourão, Portugal",
+    "coordinates": "Coordenadas",
+    "coordinatesValue": "38.4431° N, 7.3806° O"
   },
   "hours": {
-    "title": "Opening Hours",
-    "outdoor": "Castle Area",
-    "outdoorTime": "Usually open 24 hours (subject to local arrangements)",
-    "lighthouse": "Indoor Exhibitions",
-    "summer": "Summer",
-    "summerTime": "09:00 - 18:00",
-    "winter": "Best Time to Visit",
-    "winterTime": "Spring to Autumn",
-    "warning": "Visiting Tips",
-    "warningTime": "Nighttime illumination is weak; please mind your safety.",
-    "tip": "Holiday hours may vary."
+    "title": "Horários de Visita",
+    "wallsTitle": "Castelo, Muralhas e Vila",
+    "wallsText": "O adro, as muralhas, as portas e as ruas da vila amuralhada visitam-se gratuitamente e estão normalmente abertos 24 horas por dia (são o coração vivo da vila).",
+    "keepTitle": "Interiores e Torre de Menagem",
+    "keepText": "A torre de menagem e os espaços expositivos dentro do monumento seguem horários curtos e sazonais, que mudam de ano para ano. Confirme no local antes de planear o dia à volta deles.",
+    "seasonTitle": "Melhor Época para Visitar",
+    "seasonText": "De abril a junho e de setembro a outubro o tempo é mais agradável. Julho e agosto são muito quentes, mas perfeitos para os pores do sol tardios; o inverno é calmo e limpo para observar as estrelas.",
+    "warning": "Nota Prática",
+    "warningTime": "A iluminação noturna dentro da vila é reduzida. Se ficar para o pôr do sol ou para observar as estrelas, leve uma lanterna, cuidado com a calçada e note que o regresso aos parques de estacionamento é escuro em alguns troços.",
+    "tip": "Os horários podem mudar em feriados e durante as festas locais — confirme sempre com o posto de turismo municipal antes da visita."
   },
   "tickets": {
-    "title": "Ticket Information",
-    "outdoor": "Main Castle Area",
-    "outdoorPrice": "Free Admission",
-    "lighthouse": "Special Exhibitions",
-    "adults": "Adults",
-    "adultsPrice": "Varies by exhibition",
-    "students": "Students/Children",
-    "studentsPrice": "Varies by exhibition",
-    "children": "Parking Fee",
-    "childrenPrice": "Free parking outside the town",
-    "card": "Booking Advice",
-    "cardPrice": "Most areas are free; no advance booking required."
+    "title": "Entradas e Bilhetes",
+    "mainTitle": "Entrada no Monumento",
+    "mainText": "O acesso ao adro do castelo, às muralhas e às ruas da vila amuralhada é gratuito e não requer bilhete. Por ser uma vila viva, não há portão único nem bilheteira central.",
+    "keepTitle": "Torre de Menagem e Exposições",
+    "keepText": "As visitas guiadas e as exposições temporárias ou monumentos abertos com horário limitado (torre, igrejas, pequenos museus) têm preços variáveis, fixados pelas entidades organizadoras.",
+    "parkingTitle": "Estacionamento",
+    "parkingText": "Vários parques gratuitos ladeiam as estradas mesmo junto às muralhas. Circular de carro dentro da vila é reservado a moradores. Em época alta, os lugares esgotam a meio da manhã.",
+    "noteTitle": "Conselho Sincero",
+    "noteText": "O monumento ao ar livre não tem bilheteira online — basta chegar. Se quiser visitar o interior da torre ou de uma igreja, pergunte no posto de turismo local qual o horário do dia."
   },
   "transport": {
-    "title": "Transportation",
-    "airport": "From the Airport",
-    "airportDesc": "The nearest international airport is Lisbon Airport (LIS), about 180 km away (a 2-hour drive); Faro Airport (FAO) is about 210 km away (a 2.5-hour drive). Renting a car at the airport is highly recommended.",
-    "selfDrive": "Driving",
-    "selfDriveDesc": "From Lisbon: Take the A2 highway south, connect to the A6 towards Évora, then follow the N18 and N256 roads. Navigate to Monsaraz; there are several free parking lots outside the town. Note that vehicle access is restricted inside the walls.",
-    "bus": "Public Transport",
-    "busDesc": "Take a Rede Expressos bus from Lisbon Sete Rios to Évora or Reguengos de Monsaraz. From Reguengos, you must take a local bus (Rodoviária do Alentejo) or a taxi to Monsaraz (approx. 15 km).",
-    "intercity": "Walking",
-    "intercityDesc": "After parking outside the town, you will walk through the ancient gates to enter. The entire town features cobblestone streets, so wear comfortable shoes.",
-    "cycling": "Cycling",
-    "cyclingDesc": "The surrounding Alentejo region and Alqueva reservoir offer relatively flat and scenic routes, perfect for both road and mountain biking.",
-    "tips": "Travel Tips",
-    "tipsDesc": "Due to limited public transport schedules in the Alentejo region, renting a car is strongly advised for the flexibility to explore nearby wineries, megalithic monuments, and the Alqueva Dam."
+    "title": "Como Chegar",
+    "airport": "Dos Aeroportos",
+    "airportDesc": "O aeroporto de Lisboa (LIS) fica a cerca de 180 km (cerca de 2 horas de carro); o de Faro (FAO) a cerca de 210 km (cerca de 2h30). Alugar carro no aeroporto é, de longe, a opção mais prática para esta região.",
+    "selfDrive": "De Carro",
+    "selfDriveDesc": "A partir de Lisboa: A2 para sul, depois A6 na direção de Évora e continuar pela IP2/N18 até Reguengos de Monsaraz, terminando em estradas locais que sobem até à vila. A partir de Espanha (Badajoz), a A6 e a N256 chegam à mesma zona. Siga as indicações para Monsaraz; há vários parques gratuitos mesmo fora das muralhas.",
+    "bus": "Transportes Públicos",
+    "busDesc": "Os autocarros Rede Expressos ligam Lisboa (Sete Rios) a Évora e a Reguengos de Monsaraz. De Reguengos, um serviço local da Rodoviária do Alentejo ou um táxi percorre os últimos 15 km até Monsaraz. Os horários são escassos — confirme sempre o horário atual antes de viajar.",
+    "intercity": "Como Circular",
+    "intercityDesc": "Dentro das muralhas tudo se faz a pé. Dos parques de estacionamento entra-se pelas portas históricas e sobe-se pelas ruelas empedradas até ao castelo. A subida é curta, mas íngreme em alguns troços.",
+    "cycling": "De Bicicleta",
+    "cyclingDesc": "As estradas suavemente onduladas à volta de Monsaraz e da albufeira do Alqueva são favoritas dos ciclistas de estrada e de gravel. Atenção: a subida final até à vila é íngreme.",
+    "tips": "Dicas de Viagem",
+    "tipsDesc": "Como os transportes públicos são limitados, um carro alugado dá-lhe liberdade para combinar Monsaraz com a margem do Alqueva, quintas de vinho, os sítios megalíticos (menires e cromeleques) e a vila do barro de São Pedro do Corval."
+  },
+  "weather": {
+    "title": "Meteorologia em Monsaraz",
+    "subtitle": "Tempo atual e previsão para o topo da colina (38.44° N, 7.38° O), atualizado de 30 em 30 minutos via Open-Meteo.",
+    "current": "Agora",
+    "updated": "Atualizado",
+    "feels": "Sensação térmica",
+    "wind": "Vento",
+    "humidity": "Humidade",
+    "forecast": "Previsão",
+    "source": "Dados meteorológicos: Open-Meteo (open-meteo.com)",
+    "unavailable": "Os dados meteorológicos estão temporariamente indisponíveis. Consulte uma previsão local antes de viajar.",
+    "groups": {
+      "clear": "Céu limpo",
+      "partly": "Pouco nublado",
+      "cloud": "Nublado",
+      "fog": "Nevoeiro",
+      "drizzle": "Chuvisco",
+      "rain": "Chuva",
+      "snow": "Neve",
+      "showers": "Aguaceiros",
+      "thunder": "Trovoada"
+    }
   },
   "route": {
-    "title": "Visiting Route",
-    "overview": "It is recommended to allocate half a day. Enter through the main gate, explore the main street, and finally ascend the castle tower for panoramic views.",
+    "title": "Roteiro Sugerido a Pé",
+    "overview": "Meio dia chega para apreciar a vila e o castelo com calma; um dia inteiro permite acrescentar a margem do Alqueva. Eis um percurso natural que começa no parque de estacionamento e regressa ao ponto de partida.",
     "steps": [
-      "Arrive at the parking lot outside town and walk to Porta da Vila",
-      "Stroll along Rua Direita, admiring the white houses",
-      "Visit Igreja Matriz de Nossa Senhora da Lagoa",
-      "Head to the castle area and climb the walls",
-      "Enjoy the breathtaking view of the Alqueva Dam from the main tower",
-      "Wait for the beautiful sunset on the walls",
-      "Enjoy Alentejo specialties at a traditional restaurant"
+      "Estacione num dos parques gratuitos abaixo das muralhas e suba até à porta principal, a Porta da Vila, com a sua torre do relógio de 1692.",
+      "Pare sob o arco onde estão gravadas as antigas medidas de comércio, e continue pela Rua Direita, a rua principal de casas brancas.",
+      "Chegue ao largo principal com o pelourinho, a antiga igreja da Misericórdia e os Paços do Concelho.",
+      "Visite a igreja matriz de Nossa Senhora da Lagoa — procure lá dentro o túmulo medieval de Gomes Martins Silvestre.",
+      "Suba ao adro do castelo e percorra o perímetro das muralhas para o grande panorama sobre a vila, as planícies do Alentejo e o Alqueva.",
+      "Das muralhas, procure o Forte de São Bento, o forte abaluartado do século XVII que defendia o castelo da fronteira espanhola.",
+      "Percorra depois as ruelas mais tranquilas e entre nas pequenas lojas e galerias de artesanato, vinho e barro.",
+      "Fique para o pôr do sol nas muralhas poentes — a luz quente sobre a vila caiada é inesquecível.",
+      "Numa noite limpa, fique mais um pouco: o adro é um dos miradouros de céu escuro mais acessíveis da reserva."
     ],
+    "supplementsTitle": "Informação Útil",
     "supplements": [
-      "Cobblestone streets can be slippery; wear comfortable, non-slip shoes.",
-      "Dining options are limited; booking in advance during peak season is advised.",
-      "Summer midday sun is intense; stay hydrated and use sun protection."
-    ],
-    "supplementsTitle": "Visiting Notes"
+      "A calçada fica escorregadia com chuva e é irregular — use sapatos rasos e antiderrapantes.",
+      "A restauração e as lojas dentro das muralhas resumem-se a poucos restaurantes, snack-bares e pequenas lojas; em época alta, reserve mesa cedo.",
+      "O calor do meio-dia no verão é intenso e há pouco sombra: reserve as visitas interiores (igrejas, espaços museológicos) para as horas mais quentes.",
+      "As casas de banho públicas gratuitas escasseiam dentro da vila; cafés e restaurantes reservam normalmente as suas instalações para clientes.",
+      "Se ficar à noite para ver as estrelas, leve roupa de abrigo mesmo no verão — na colina as noites arrefecem depressa."
+    ]
   },
   "photoSpots": {
-    "title": "Photo Spots",
+    "title": "Melhores Locais para Fotografar",
     "spots": [
       {
-        "name": "Castle Main Tower",
-        "desc": "The best spot overlooking the Alqueva Dam and the town panorama."
+        "name": "Adro do Castelo e Torre de Menagem",
+        "desc": "O miradouro mais alto: a torre e as muralhas enquadram a vila lá em baixo e a albufeira do Alqueva no horizonte."
       },
       {
-        "name": "Ancient Gates",
-        "desc": "Historic backgrounds with massive walls and arches."
+        "name": "Porta da Vila",
+        "desc": "A porta principal com a torre do relógio de 1692 é o retrato clássico da entrada, sobretudo com a luz da manhã."
       },
       {
-        "name": "White Streets",
-        "desc": "Narrow cobblestone streets lined with exotic white houses."
+        "name": "Rua Direita",
+        "desc": "A rua principal caiada, com vasos de flores e socos azuis, é o Alentejo em estado puro."
+      },
+      {
+        "name": "Largo do Pelourinho",
+        "desc": "O pelourinho, a igreja da Misericórdia e as fachadas brancas compõem a cena perfeita de praça medieval."
+      },
+      {
+        "name": "Muralhas Poentes ao Pôr do Sol",
+        "desc": "A hora dourada sobre as planícies e o lago: chegue 30 minutos antes do pôr do sol para escolher o melhor lugar."
+      },
+      {
+        "name": "Vista do Alqueva à Noite",
+        "desc": "Com o céu limpo, o adro torna-se um observatório natural — basta um tripé e uma objetiva grande-angular."
       }
     ],
-    "tips": "Photography Tips",
-    "tipsContent": "Sunrise and sunset offer the softest light. It is also an excellent spot for night sky photography."
+    "tips": "Dicas de Fotografia",
+    "tipsContent": "De manhã a luz é suave sobre a vila e as ruelas ganham sombras compridas; ao fim do dia o sol ilumina as muralhas poentes e o lago. À noite, as noites sem lua oferecem os céus mais escuros da reserva Dark Sky Alqueva. Leve uma lanterna de cabeça com luz vermelha para preservar a visão noturna — a sua e a dos outros observadores."
+  },
+  "facilities": {
+    "title": "Serviços e Comodidades",
+    "note": "Monsaraz é uma pequena vila viva, não um parque temático. Os serviços abaixo estão indicados apenas por tipo — enquanto guia independente e sem fins comerciais, não recomendamos estabelecimentos concretos. A disponibilidade muda com a época, por isso confirme sempre no local.",
+    "items": [
+      {
+        "title": "Casas de Banho (WC)",
+        "desc": "As casas de banho públicas dentro das muralhas são poucas. Existem instalações públicas junto às zonas de estacionamento e nos serviços ligados ao turismo da vila. Cafés e restaurantes servem normalmente os seus próprios clientes."
+      },
+      {
+        "title": "Estacionamento",
+        "desc": "Parques públicos gratuitos ladeiam as estradas de acesso logo abaixo das muralhas. Dentro da vila a circulação é restrita. Em julho, agosto e fins de semana prolongados, chegue antes das 10h00 ou aceite uma caminhada mais longa."
+      },
+      {
+        "title": "Restauração e Cafés",
+        "desc": "Dentro das muralhas encontra uma mão-cheia de restaurantes tradicionais, snack-bares e cafés com cozinha alentejana e vinhos locais. A oferta é pequena — reserve mesa com antecedência em época alta."
+      },
+      {
+        "title": "Alojamento",
+        "desc": "A vila oferece um pequeno número de casas de hóspedes, casas de campo e alojamentos locais. A maioria dos visitantes fica no concelho de Reguengos de Monsaraz ou nas margens do Alqueva. Veja a secção de alojamento acima para orientação geral."
+      },
+      {
+        "title": "Compras e Mercearias",
+        "desc": "Não há supermercado dentro das muralhas — apenas pequenas lojas de conveniência com stock limitado. Para compras completas, use os supermercados de Reguengos de Monsaraz (a cerca de 15 km) antes de chegar."
+      },
+      {
+        "title": "Combustível e Carregamento Elétrico",
+        "desc": "Não há posto de abastecimento dentro da vila. As bombas de gasolina mais próximas ficam em Reguengos de Monsaraz e nas estradas de acesso à zona do Alqueva. Pontos de carregamento para carros elétricos existem igualmente nos centros maiores próximos."
+      },
+      {
+        "title": "Caixas Multibanco e Dinheiro",
+        "desc": "Não há multibanco permanente dentro das muralhas. Leve dinheiro para as pequenas lojas e cafés ou levante em Reguengos de Monsaraz. Os cartões são aceites na maioria dos restaurantes e lojas maiores."
+      },
+      {
+        "title": "Farmácia e Saúde",
+        "desc": "A farmácia mais próxima fica em Reguengos de Monsaraz. Para situações urgentes, dirija-se ao centro de saúde dessa vila ou, em casos graves, aos hospitais de Évora ou de Beja. Leve consigo qualquer medicação de que necessite."
+      },
+      {
+        "title": "Água Potável e Sombra",
+        "desc": "As fontes públicas de água são raras no topo da colina. No verão leve a sua própria água — pelo menos um litro por pessoa — e planeie paragens à sombra nas horas mais quentes."
+      }
+    ]
+  },
+  "stories": {
+    "title": "Histórias e Lendas",
+    "subtitle": "Por detrás das muralhas: seis episódios verdadeiros — e uma lenda viva — que moldaram Monsaraz.",
+    "items": [
+      {
+        "badge": "História documentada",
+        "title": "Geraldo Sem Pavor e a conquista de 1167",
+        "text": "Em 1167, o célebre capitão de fronteira Geraldo Sem Pavor tomou Monsaraz aos muçulmanos em nome do rei D. Afonso Henriques. Foi uma das arrojadas investidas que levaram a fronteira do jovem reino para dentro do Alentejo. O triunfo foi breve: os almóadas retomaram a região em 1175, e só depois das campanhas de 1232 a colina ficou definitivamente portuguesa."
+      },
+      {
+        "badge": "História documentada",
+        "title": "Guardiões de manto branco: os Templários",
+        "text": "Em 1232, o rei D. Sancho II entregou Monsaraz aos Cavaleiros Templários, veteranos da guerra de fronteira. Por onde serviam deixavam marca — e Monsaraz não foi exceção. Dentro da igreja matriz de Santa Maria da Lagoa repousa o túmulo lavrado de Gomes Martins Silvestre, nobre ligado à Ordem, e cruzes templárias continuam gravadas na pedra da região. Quando a Ordem foi extinta em 1312, os seus bens portugueses passaram para a sucessora Ordem de Cristo."
+      },
+      {
+        "badge": "História documentada",
+        "title": "Ordem de um rei: D. Dinis reconstrói (c. 1310)",
+        "text": "No início do século XIV, o rei D. Dinis, o ‘Rei Lavrador’ que ergueu tantos castelos de Portugal, mandou reconstruir e reforçar Monsaraz. A obra deu à fortaleza a silhueta atual: uma torre de menagem e um paço no cimo, uma cortina oval de muralhas de xisto em volta da vila e portas de granito sólido. Durante três séculos foi esta a fortaleza que a fronteira conheceu."
+      },
+      {
+        "badge": "História e lenda",
+        "title": "A crise de 1383–85: quando o castelo mudou de mãos",
+        "text": "Durante a grande crise dinástica de 1383–85, Monsaraz entrou na guerra entre Portugal e Castela. Forças castelhanas tomaram o castelo, e só depois da vitória portuguesa em Aljubarrota é que o condestável D. Nuno Álvares Pereira o devolveu ao rei D. João I. A tradição local recorda ainda esses meses tensos em que a colina mudou de mãos e a fronteira podia ter caído para qualquer lado."
+      },
+      {
+        "badge": "História documentada",
+        "title": "Baluartes contra Espanha: o século XVII",
+        "text": "Depois de 1640, Portugal lutou uma longa Guerra da Restauração para manter a independência de Espanha. Monsaraz voltou a ser fortaleza da linha da frente. Engenheiros franceses ao serviço português — Nicolau de Langres e Jean Gillot — desenharam baluartes em estrela à volta das muralhas medievais, e o Forte de São Bento foi erguido mesmo fora da vila. Hoje, as suas silhuetas rasas são uma relíquia tranquila desse século guerreiro."
+      },
+      {
+        "badge": "História moderna",
+        "title": "As chaves do castelo e o renascimento estrelado",
+        "text": "Em 1987, o povo de Monsaraz ofereceu simbolicamente as chaves do seu castelo ao Presidente Mário Soares — um gesto de amizade de uma vila cuja fortaleza já não tinha qualquer uso militar. Depois veio o Alqueva: a grande barragem encheu o vale após 2002, transformando a fortaleza de fronteira num miradouro sobre a água. Em 2011, a região foi certificada como Dark Sky Alqueva, o primeiro destino mundial de Turismo Starlight. O velho sentinela da fronteira vigia agora a água, as vinhas — e as estrelas."
+      }
+    ]
   },
   "hotels": {
-    "title": "Accommodation Suggestions",
+    "title": "Onde Ficar",
     "hotels": [
       {
-        "name": "Traditional Townhouses",
-        "desc": "Experience authentic Alentejo charm with views right from your window.",
-        "price": "Moderate prices, advance booking required"
+        "name": "Alojamentos Dentro das Muralhas",
+        "desc": "Poucas casas de hóspedes e alojamentos locais ocupam casas recuperadas da vila, com o pôr do sol e o céu estrelado à porta.",
+        "price": "Preços médios · reserve com muita antecedência"
       },
       {
-        "name": "Nearby Country Estates",
-        "desc": "Quiet environments, usually with a pool, ideal for drivers.",
-        "price": "Diverse choices, high value for money"
+        "name": "Casas de Campo com Vista para o Alqueva",
+        "desc": "Na margem do Alqueva e no concelho, casas de campo e pequenos hotéis oferecem piscina, sossego e vistas espetaculares — ideais para quem viaja de carro.",
+        "price": "Boa relação qualidade-preço · reserve cedo no verão"
       }
     ],
-    "supplements": "Accommodation Notes",
-    "supplementsContent": "Accommodation in the town is limited. If fully booked, consider staying in nearby Reguengos de Monsaraz."
+    "supplements": "Notas de Alojamento",
+    "supplementsContent": "Os quartos dentro de Monsaraz são poucos e esgotam depressa para os fins de semana de verão e as festas locais. Se a vila estiver cheia, a vila de Reguengos de Monsaraz (15 km) e a margem do Alqueva oferecem mais opções — e ambas são boas bases para explorar a região."
   },
   "gallery": {
-    "title": "Stunning Photos",
-    "subtitle": "Charming Scenery of Monsaraz Castle",
+    "title": "Galeria de Fotos",
+    "subtitle": "A vila, as muralhas e o lago",
     "captions": [
-      "Castle Panorama",
-      "Ancient Walls",
-      "Overlooking Alqueva Dam",
-      "White Houses and Cobblestones",
-      "Magnificent Sunset",
-      "Starry Night Sky",
-      "Historic City Gate",
-      "Traditional Craft Shop",
-      "Main Church",
-      "Castle Courtyard",
-      "Alentejo Plains",
-      "Defense Tower",
-      "Quiet Town Corner",
-      "White Walls in the Sun",
-      "Distant Landscape",
-      "Castle at Dusk",
-      "Medieval Details",
-      "Spring Wildflowers",
-      "Reservoir View",
-      "Distant Castle View"
+      "O castelo sobre a vila",
+      "Muralhas medievais com luz quente",
+      "Vista sobre o Alqueva",
+      "Casas brancas e ruelas de calçada",
+      "Pôr do sol sobre as planícies alentejanas",
+      "O céu escuro sobre Monsaraz",
+      "Porta da Vila histórica",
+      "Lojas e artesanato na vila",
+      "Igreja matriz de Nossa Senhora da Lagoa",
+      "O pátio do castelo",
+      "Paisagem ondulada do Alentejo",
+      "A torre de menagem",
+      "Um canto sossegado da vila",
+      "Muros caiados ao sol",
+      "As planícies até ao horizonte",
+      "O castelo ao entardecer",
+      "Pormenores de pedra lavrada",
+      "Flores de primavera entre as pedras",
+      "A albufeira no sopé da colina",
+      "Monsaraz visto de baixo"
     ],
-    "viewAll": "View more photos on Google Maps",
-    "showAllPhotos": "Show All Photos"
+    "viewAll": "Mais fotos no Google Maps",
+    "showAllPhotos": "Ver Todas as Fotos"
   },
   "reviews": {
-    "title": "Visitor Reviews",
-    "declaration": "Review information can be viewed via Google Maps (external link).",
-    "moreReviews": "View More Reviews on Google Maps",
+    "title": "O Que Dizem os Visitantes",
+    "declaration": "Os comentários abaixo refletem a opinião de utilizadores do Google Maps (classificação média no topo da página). Este site independente não tem ligação a nenhum negócio ou entidade oficial.",
+    "moreReviews": "Ver Mais Comentários no Google Maps",
     "items": [
       {
         "name": "João Silva",
-        "date": "2 months ago",
+        "date": "há 2 meses",
         "rating": 5,
-        "text": "A wonderfully preserved medieval village! The cobblestone streets and white houses are full of history, and the view of Lake Alqueva from the walls is simply unparalleled. Highly recommend visiting at sunset."
+        "text": "Uma aldeia medieval maravilhosamente preservada! As ruelas empedradas e as casas brancas estão cheias de história, e a vista do Alqueva a partir das muralhas é simplesmente incomparável. Recomendo muito vir ao pôr do sol."
       },
       {
         "name": "Maria Costa",
-        "date": "1 month ago",
+        "date": "há 1 mês",
         "rating": 5,
-        "text": "One of the most beautiful towns in Portugal! The tranquility here is relaxing, and the surrounding scenery is spectacular. Just be careful, it gets very hot in the summer, so remember to bring water and sunscreen."
+        "text": "Uma das vilas de colina mais bonitas de Portugal. Tão tranquila que custa ir embora. No verão faz muito calor — levem água e protetor solar."
       },
       {
         "name": "Carlos Rodrigues",
-        "date": "3 months ago",
+        "date": "há 3 meses",
         "rating": 4,
-        "text": "Amazing place. The castle isn't huge, but the location is perfect. Had a fantastic traditional Portuguese meal at a restaurant in the village. The only issue is that parking can be hard to find in peak season."
+        "text": "Lugar fantástico. O castelo não é enorme, mas a posição é perfeita, e fizemos uma refeição tradicional maravilhosa na vila. A única dificuldade é o estacionamento em época alta — cheguem cedo."
       },
       {
         "name": "Ana Martins",
-        "date": "Over 6 months ago",
+        "date": "há mais de 6 meses",
         "rating": 5,
-        "text": "A very romantic and charming place. We stayed here for a night, and stargazing was an absolute highlight since it's a famous dark sky reserve in Europe. Completely fell in love with it!"
+        "text": "Ficámos uma noite e observar as estrelas a partir das muralhas foi o ponto alto absoluto — o céu é incrivelmente limpo. Apaixonámo-nos completamente por este lugar."
       },
       {
         "name": "Pedro Santos",
-        "date": "1 year ago",
+        "date": "há 1 ano",
         "rating": 5,
-        "text": "The panoramic view here is truly breathtaking. You can see the reservoir and the vast plains intertwined. The town itself is also charming with many small shops selling local handicrafts."
+        "text": "O panorama é de cortar a respiração: a albufeira e as planícies imensas num só enquadramento. A vila é encantadora, com pequenas lojas de vinho e artesanato locais."
       },
       {
         "name": "Teresa Ferreira",
-        "date": "Over 6 months ago",
+        "date": "há mais de 6 meses",
         "rating": 4,
-        "text": "Well worth a visit! Very easy to drive from Évora. Recommend wearing flat shoes because it's all cobblestones. The people in town are very friendly, and there are many great spots for photos."
+        "text": "Muito fácil de conduzir a partir de Évora. Usem sapatos rasos — tudo é calçada — e serão recompensados com infinitos recantos para fotografar."
       },
       {
         "name": "Rui Almeida",
-        "date": "3 months ago",
+        "date": "há 3 meses",
         "rating": 5,
-        "text": "Felt like stepping back into the Middle Ages! Every alley and every door has its story. Time seems to stand still when walking on the walls. A must-visit place in the Alentejo region."
+        "text": "Parece que entramos na Idade Média. Cada beco e cada porta tem uma história, e o tempo parece parar nas muralhas. Visita obrigatória no Alentejo."
       },
       {
         "name": "Catarina Gomes",
-        "date": "2 months ago",
+        "date": "há 2 meses",
         "rating": 5,
-        "text": "Too beautiful to describe with words. Whether it's the ancient castle ruins or the blue lake water below, it makes you linger. Especially recommend going to the top of the tower, although it's very windy, the view is the best."
+        "text": "Bonito demais para palavras — a pedra antiga e o lago azul lá em baixo. Subam ao topo da torre se puderem: faz vento, mas a vista é a melhor da região."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "items": [
+      {
+        "q": "A entrada no Castelo de Monsaraz é paga?",
+        "a": "Não. O adro do castelo, as muralhas, as portas e as ruas da vila amuralhada são de acesso livre e gratuito. Apenas alguns interiores (a torre quando está aberta, igrejas e espaços expositivos) podem ter entradas próprias, fixadas pelas entidades organizadoras."
+      },
+      {
+        "q": "Quais são os horários de visita?",
+        "a": "O monumento ao ar livre e as ruas da vila estão normalmente acessíveis 24 horas por dia. Os atrativos interiores, como a torre de menagem e a igreja matriz, seguem horários curtos e sazonais que mudam de ano para ano — confirme no local ou no posto de turismo municipal."
+      },
+      {
+        "q": "Quanto tempo devo reservar para a visita?",
+        "a": "Duas a três horas chegam para ver a vila e o castelo com calma. Para acrescentar o pôr do sol e as estrelas, ou combinar com a margem do Alqueva e os monumentos megalíticos, planeie um dia inteiro ou uma dormida."
+      },
+      {
+        "q": "Onde posso estacionar?",
+        "a": "Há vários parques públicos gratuitos nas estradas de acesso logo abaixo das muralhas (a circulação dentro da vila é restrita a moradores). Os lugares enchem depressa em julho, agosto e fins de semana prolongados — chegue antes de meio da manhã ou estacione mais abaixo e caminhe."
+      },
+      {
+        "q": "Há casas de banho, restaurantes e lojas na vila?",
+        "a": "Sim, mas em pequena escala. Dentro das muralhas encontra alguns restaurantes, snack-bares, cafés e lojas de artesanato, além de casas de banho públicas muito limitadas. Não há supermercado na vila — as compras completas fazem-se em Reguengos de Monsaraz, a cerca de 15 km."
+      },
+      {
+        "q": "Qual é a melhor época e a melhor hora para visitar?",
+        "a": "Na primavera e no outono (abril–junho, setembro–outubro) as temperaturas são mais agradáveis. Os dias de verão são muito quentes e aproveitam-se melhor cedo ou ao fim do dia. Para fotografar, a manhã e o pôr do sol são ideais; para ver estrelas, escolha uma noite limpa e sem lua."
+      },
+      {
+        "q": "Monsaraz é acessível a pessoas com mobilidade reduzida?",
+        "a": "Em parte. A vila amuralhada é íngreme e quase toda em calçada, com escadas em vários pontos, pelo que a torre e partes das muralhas não são acessíveis a cadeiras de rodas. Estacionar perto das portas encurta bastante o caminho até à rua principal."
+      },
+      {
+        "q": "Vale a pena dormir em Monsaraz?",
+        "a": "Se puder, sim — a vila esvazia-se ao pôr do sol e ficamos com as muralhas, o lago e a reserva de céu escuro quase só para nós. Os quartos são poucos, por isso reserve com meses de antecedência para os fins de semana de verão, ou fique em Reguengos de Monsaraz ou na margem do Alqueva."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Fontes e Leitura Complementar",
+    "subtitle": "O conteúdo desta página foi compilado a partir das seguintes fontes oficiais e de referência (maioritariamente em português). Confirme sempre a informação atual junto das entidades oficiais antes de viajar.",
+    "updated": "Conteúdo da página revisto em: 4 de setembro de 2026",
+    "items": [
+      {
+        "name": "Visit Portugal — Castelo de Monsaraz",
+        "url": "https://www.visitportugal.com/pt"
+      },
+      {
+        "name": "Património Cultural (Direção-Geral do Património Cultural)",
+        "url": "https://www.patrimoniocultural.gov.pt/"
+      },
+      {
+        "name": "Monumentos — Sistema de Informação para o Património Arquitetónico (SIPA)",
+        "url": "https://www.monumentos.gov.pt/"
+      },
+      {
+        "name": "Município de Reguengos de Monsaraz — Castelo e fortificação medieval",
+        "url": "https://www.cm-reguengos-monsaraz.pt/locais/castelo-e-fortificacao-medieval/"
+      },
+      {
+        "name": "Turismo do Alentejo — Castelo de Monsaraz",
+        "url": "https://www.visitalentejo.pt/pt/catalogo/o-que-fazer/museus-e-monumentos/castelo-de-monsaraz/"
+      },
+      {
+        "name": "Dark Sky Alqueva",
+        "url": "https://darkskyalqueva.com"
       }
     ]
   },
   "mapSection": {
-    "title": "Transportation Guide",
-    "subtitle": "Largo do Castelo 1, 7200-175 Évora, Portugal",
-    "openMaps": "View on Google Maps"
+    "title": "Mapa e Localização",
+    "subtitle": "Largo do Castelo, Monsaraz, 7200-175 Reguengos de Monsaraz, Portugal",
+    "openMaps": "Ver no Google Maps"
   },
   "footer": {
-    "rights": "© 2026 Monsaraz Castle. All rights reserved.",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service",
-    "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Related Resources & Information",
-    "officialLinks": {
-      "council": "Visit Portugal",
-      "tourism": "Alentejo Tourism Guide",
-      "england": "Reguengos de Monsaraz City Council"
-    },
-    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+    "rights": "© 2026 Castelo de Monsaraz — guia independente do visitante.",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Utilização",
+    "cookies": "Definições de Cookies",
+    "officialResourcesTitle": "Recursos Oficiais",
+    "officialLinks": [
+      {
+        "name": "Visit Portugal",
+        "url": "https://www.visitportugal.com/pt"
+      },
+      {
+        "name": "Património Cultural",
+        "url": "https://www.patrimoniocultural.gov.pt/"
+      },
+      {
+        "name": "Município de Reguengos de Monsaraz",
+        "url": "https://www.cm-reguengos-monsaraz.pt/"
+      },
+      {
+        "name": "Turismo do Alentejo",
+        "url": "https://www.visitalentejo.pt/"
+      },
+      {
+        "name": "Dark Sky Alqueva",
+        "url": "https://darkskyalqueva.com"
+      }
+    ],
+    "disclaimer": "Este website é um guia educativo, independente e sem fins comerciais. Não temos qualquer ligação a — nem somos endossados por — entidades oficiais, empresas ou atrações. Os serviços indicados referem-se apenas a tipos de estabelecimento e podem mudar — confirme sempre com as fontes oficiais acima.",
+    "photoCredit": "Todas as imagens exibidas neste site pertencem aos respetivos fotógrafos originais, que mantêm a sua propriedade e direitos de autor."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "lastUpdated": "Last Updated: May 2026",
+    "title": "Política de Privacidade",
+    "lastUpdated": "Última atualização: 4 de setembro de 2026",
     "sections": [
       {
-        "heading": "1. Information We Collect",
-        "content": "We only collect the minimum data necessary to provide our services. This data may include: browsing data (IP address, browser type, visited pages), cookies and similar technologies, and any information you voluntarily provide via contact forms or email."
+        "heading": "1. Informações que Recolhemos",
+        "content": "Recolhemos os dados mínimos necessários ao funcionamento deste website: registos técnicos (endereço IP, tipo de navegador, páginas visitadas), cookies e tecnologias semelhantes, e qualquer informação que nos envie voluntariamente por email ou formulário. Não exigimos conta e não vendemos dados."
       },
       {
-        "heading": "2. How We Use Your Information",
-        "content": "We use the collected information to: improve website content and user experience, analyze traffic and usage patterns, respond to requests, and comply with our legal obligations."
+        "heading": "2. Como Usamos as Suas Informações",
+        "content": "Usamos estas informações para manter e melhorar o website, compreender padrões gerais de tráfego e responder a mensagens. Se ativar as cookies analíticas, o Google Analytics pode recolher estatísticas anónimas e agregadas em nosso nome."
       },
       {
-        "heading": "3. Third-Party Services",
-        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+        "heading": "3. Serviços de Terceiros",
+        "content": "Este website incorpora o Google Maps (para o mapa de localização) e utiliza o Google Analytics (apenas com o seu consentimento). Os dados meteorológicos são fornecidos pela Open-Meteo. Cada serviço funciona segundo a sua própria política de privacidade."
       },
       {
-        "heading": "4. Your Rights",
-        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority."
+        "heading": "4. Cookies",
+        "content": "As cookies essenciais mantêm o website a funcionar e recordam as suas preferências (idioma e tema). As cookies analíticas são apenas ativadas após o seu consentimento, e pode alterar a sua escolha a qualquer momento na página de Definições de Cookies."
+      },
+      {
+        "heading": "5. Os Seus Direitos",
+        "content": "Ao abrigo do Regulamento Geral sobre a Proteção de Dados (RGPD), pode solicitar o acesso, a retificação ou a eliminação dos seus dados pessoais, opor-se ao tratamento e apresentar reclamação a uma autoridade de controlo (em Portugal, a CNPD). Contacte-nos pelos canais indicados neste website."
       }
     ]
   },
   "terms": {
-    "title": "Terms of Service",
-    "lastUpdated": "Last Updated: May 2026",
+    "title": "Termos de Utilização",
+    "lastUpdated": "Última atualização: 4 de setembro de 2026",
     "sections": [
       {
-        "heading": "1. Acceptance of Terms",
-        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+        "heading": "1. Aceitação dos Termos",
+        "content": "Ao aceder e utilizar este website aceita estes termos de utilização. Se não concordar com alguma das suas partes, deixe de utilizar o website."
       },
       {
-        "heading": "2. Use of Content",
-        "content": "All content on this website is for informational purposes only. We are an independent third-party travel information website, not affiliated with any tourist attractions, government agencies, or commercial operators."
+        "heading": "2. Finalidade do Website",
+        "content": "Este é um guia do visitante independente, sem fins comerciais e de caráter educativo sobre o Castelo de Monsaraz e a vila amuralhada de Monsaraz. Não temos ligação a nenhuma entidade oficial, empresa ou atração e não vendemos bilhetes, visitas ou produtos."
       },
       {
-        "heading": "3. Accuracy of Information",
-        "content": "We strive to provide accurate and timely information, but we cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Always verify important information through official channels before traveling."
+        "heading": "3. Exatidão da Informação",
+        "content": "Procuramos manter a informação exata e atualizada, mas horários, serviços e equipamentos podem mudar sem aviso. Confirme sempre os detalhes sensíveis ao tempo (horários, eventos, acessibilidade) junto das entidades oficiais listadas nesta página antes de viajar."
       },
       {
-        "heading": "4. Intellectual Property",
-        "content": "The design and original content of this website are protected by copyright. Images are sourced from Unsplash and used under license. The use of Google Maps data complies with Google's terms of service."
+        "heading": "4. Propriedade Intelectual",
+        "content": "O texto e o design original deste website são da nossa autoria. As fotografias são utilizadas com autorização dos seus autores. Os mapas incorporados e os dados meteorológicos pertencem aos respetivos fornecedores e são utilizados nos termos deles."
       },
       {
-        "heading": "5. Limitation of Liability",
-        "content": "This website is provided \"as is\" without any warranties. We are not responsible for any losses resulting from the use of information on this website, including but not limited to travel decisions made based on its content."
+        "heading": "5. Limitação de Responsabilidade",
+        "content": "As informações deste website são fornecidas \"tal como estão\", sem garantias de qualquer tipo. Não aceitamos responsabilidade por perdas resultantes de decisões tomadas com base neste conteúdo, incluindo, mas não se limitando a, decisões de planeamento de viagens."
       }
     ]
   },
   "cookieSettings": {
-    "title": "Cookie Settings",
-    "description": "Last Updated: May 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "title": "Definições de Cookies",
+    "description": "Última atualização: 4 de setembro de 2026\n\nUtilizamos cookies para melhorar a sua experiência de navegação. Pode gerir as suas preferências abaixo. As suas escolhas são guardadas no seu próprio dispositivo.",
     "essential": {
-      "title": "Essential Cookies",
-      "description": "These cookies are essential for the website to function properly and cannot be disabled.",
-      "badge": "Always Active"
+      "title": "Cookies Essenciais",
+      "description": "São necessárias para o funcionamento correto do website (por exemplo, para recordar o seu idioma e tema) e não podem ser desativadas.",
+      "badge": "Sempre Ativas"
     },
     "analytics": {
-      "title": "Analytics Cookies",
-      "description": "They help us understand how visitors interact with our website by collecting anonymous usage data.",
+      "title": "Cookies Analíticas",
+      "description": "Ajudam-nos a compreender como os visitantes utilizam o website através de estatísticas anónimas — apenas quando dá o seu consentimento.",
       "items": [
         {
           "name": "Google Analytics",
-          "status": "Active",
-          "description": "It collects anonymous information about how visitors use our website."
+          "status": "Ativa",
+          "description": "Recolhe estatísticas anónimas sobre a utilização deste website."
         }
       ]
     },
     "marketing": {
-      "title": "Marketing Cookies",
-      "description": "They are used to show relevant advertisements and measure the effectiveness of ad campaigns.",
+      "title": "Cookies de Marketing",
+      "description": "Este website não exibe publicidade, pelo que não utiliza cookies de marketing.",
       "items": [
         {
-          "name": "Personalized Ads",
-          "status": "Inactive",
-          "description": "It can show you relevant ads based on your interests."
+          "name": "Cookies de publicidade e monitorização",
+          "status": "Inativas",
+          "description": "Não são utilizadas neste website. Mantidas aqui por transparência."
         }
       ]
     },
-    "save": "Save Preferences",
-    "saved": "Settings saved!",
+    "save": "Guardar Preferências",
+    "saved": "Preferências guardadas!",
     "preferences": {
       "items": [
         {
-          "name": "User Preferences",
-          "status": "Active",
-          "description": "Saves your language preferences and website settings."
+          "name": "Preferências do Utilizador",
+          "status": "Ativas",
+          "description": "Guarda as suas escolhas de idioma e tema neste dispositivo."
         }
       ],
-      "title": "Preference Cookies",
-      "description": "They remember your settings, such as language and theme preferences."
+      "title": "Cookies de Preferências",
+      "description": "Recordam definições como o idioma e o tema de cores."
     },
-    "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
-    "rejectAll": "Reject All"
+    "consentManagement": "Gestão de consentimento: pode alterar as suas definições de cookies a qualquer momento. Desativar algumas cookies pode afetar o funcionamento do website.",
+    "rejectAll": "Rejeitar Tudo"
   },
   "officialManagement": {
-    "title": "About Monsaraz Castle",
-    "text": "Monsaraz Castle is one of Portugal's most precious historical heritages."
+    "title": "Sobre Este Guia",
+    "text": "O Castelo de Monsaraz é um dos patrimónios mais preciosos do Alentejo português. Este guia independente e sem fins lucrativos foi escrito para dar a conhecer a sua história e ajudá-lo a visitá-lo bem preparado. Não vendemos nada e não recomendamos empresas concretas — apenas as fontes oficiais e públicas indicadas no fim da página."
   }
 }

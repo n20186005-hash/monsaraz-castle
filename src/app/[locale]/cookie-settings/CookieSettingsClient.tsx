@@ -53,7 +53,7 @@ export default function CookieSettingsClient() {
   const t = useTranslations('cookieSettings');
   const ht = useTranslations('header');
   const locale = useLocale();
-  const homeHref = locale === 'zh' ? '/zh' : `/${locale}`;
+  const homeHref = `/${locale}`;
 
   const [analytics, setAnalytics] = useState(false);
   const [preferences, setPreferences] = useState(true);
@@ -71,6 +71,9 @@ export default function CookieSettingsClient() {
 
   function handleSave() {
     localStorage.setItem('cookiePrefs', JSON.stringify({ analytics, preferences, marketing }));
+    if (typeof window !== 'undefined') {
+      window.dispatchEvent(new Event('consent-updated'));
+    }
     setSaved(true);
     setTimeout(() => setSaved(false), 2000);
   }
@@ -80,6 +83,9 @@ export default function CookieSettingsClient() {
     setPreferences(false);
     setMarketing(false);
     localStorage.setItem('cookiePrefs', JSON.stringify({ analytics: false, preferences: false, marketing: false }));
+    if (typeof window !== 'undefined') {
+      window.dispatchEvent(new Event('consent-updated'));
+    }
     setSaved(true);
     setTimeout(() => setSaved(false), 2000);
   }

@@ -1,3 +1,5 @@
+'use client';
+
 import { useTranslations, useMessages } from 'next-intl';
 
 function Stars({ count }: { count: number }) {
@@ -90,7 +92,7 @@ export default function Reviews() {
         {/* More reviews link — arrow only */}
         <div className="flex justify-center">
           <a
-            href="https://maps.app.goo.gl/WLjBvPFtdXS7pBpXA"
+            href="https://maps.app.goo.gl/wFFoJUqnrAQXGdVJ8"
             target="_blank"
             rel="noopener noreferrer"
             className="group flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium transition-all"

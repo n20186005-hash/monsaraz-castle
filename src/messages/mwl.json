@@ -1,374 +1,600 @@
 {
   "meta": {
-    "title": "Monsaraz Castle | Medieval Castle & Stunning Panoramas in Portugal",
-    "description": "Complete guide to exploring Monsaraz Castle in Portugal. Learn about opening hours, transportation, and photo spots."
+    "title": "Castielho de Monsaraz (Monsaraz) — Guia de l Bejitante, Stória i Bistas",
+    "description": "Guia cumpleto pa bisitar l Castielho de Monsaraz, la fortaleza mediebal ne l topo de la colina de l Alentejo cun bista pa l Alqueba: horairos, stória, trasportes, serbícios, meteorologie i puntos pa fotografiar."
   },
   "header": {
-    "home": "Home",
-    "gallery": "Gallery",
-    "reviews": "Reviews",
-    "map": "Map",
-    "backToHome": "Back to Home"
+    "gallery": "Galarie",
+    "facilities": "Serbícios",
+    "stories": "Stória i Lendas",
+    "faq": "Perguntas",
+    "map": "Mapa",
+    "backToHome": "Buoltar al ampeço"
   },
   "hero": {
-    "title": "Monsaraz Castle",
-    "subtitle": "Castelo de Monsaraz · Portugal",
+    "title": "Castielho de Monsaraz",
+    "subtitle": "Bila mediebal amuralhada · Alentejo, Pertual",
     "rating": "4.7",
-    "reviewCount": "14,686",
-    "hours": "Open 24 Hours",
-    "openMaps": "View Location"
+    "reviewCount": "14,966",
+    "hours": "Castielho abierto 24 horas",
+    "openMaps": "Ber ne l mapa"
   },
   "intro": {
-    "title": "Explore Monsaraz Castle",
-    "description": "Monsaraz Castle, located in the Alentejo region of Portugal, is a historic medieval castle. Perched high on a hilltop, it overlooks the magnificent Alqueva Dam and the vast surrounding plains.\n\nWalking along the ancient walls, you can feel the rich history while enjoying unparalleled panoramic views. It is a must-visit destination for photography enthusiasts and history buffs.",
+    "title": "Ua Fortaleza ne l Topo de la Colina, Subre l Alqueba",
+    "description": "L Castielho de Monsaraz coroa ua de las bilas de colina mais guapas de l Alentejo pertués. De las sues muralhas bé-se las planices que se sténden i las augas azules de l albufeira de l Alqueba, un de ls maiores lagos artificiais de la Ouropa Oucidental.\n\nLa bila amuralhada mudou pouco al lhongu de ls seclos: casas blancas, rueiros de calçada, puortas mediebales i un largo silencioso fázen l tiempo parecer parado. Cumo ls arrabaldes stan protegidos de la poluiçon lumínica, esta mesma colina faç parte de la Reserve Dark Sky Alqueba, un de ls melhores lugares de Pertual pa mirar las streilhas.\n\nEste guia reúne to lo que percisa pa preparar la bejita: cumo chegar, l que ber, ls serbícios çponibles, l tiempo atual i la stória por trás de las piedras.",
     "visitGuide": {
-      "title": "Visiting Tips",
+      "title": "Cunselhos de Bejita",
       "items": [
-        "Recommended to visit in the early morning or evening; the sunset views are the most captivating.",
-        "The castle area features cobblestone streets; please wear comfortable walking shoes.",
-        "Summer temperatures can be high; ensure you have sun protection."
+        "Chegue de manhana cedo ó al fin de la tarde pa percorrer las rues quaije solo i aprobeitar la melhor luç.",
+        "Use calçado cumodo: las rues son todas de calçada i cun alguns troços anclinados.",
+        "Ne ls dies de berano la calor ye mui fuorte i hai pouca selombra — liebe auga, protetor solar i chapéu.",
+        "Pa mirar las streilhas, planege ua nuite de cielo limpo i sin luna (cunsulte la secçon de meteorologie ambaixo)."
       ]
     },
     "alsoKnownAs": {
-      "title": "Attraction Highlights",
+      "title": "L Que Nun Puode Perder",
       "items": [
-        "Well-preserved medieval walls and architecture",
-        "Overlooking Alqueva, Europe's largest artificial lake",
-        "Unique Alentejo charming town",
-        "Excellent stargazing spot"
+        "Castielho mediebal de colina i bila amuralhada",
+        "Monumento Nacional zde 1946",
+        "Bistas subre l Alqueba, un de ls maiores lagos artificiais de la Ouropa Oucidental",
+        "Drento de la Reserve Dark Sky Alqueba, çtino Starlight certificado",
+        "Puorta d'antrada pa quintas de bino, monumentos megalíticos i la bila de l barro de S. Pedro de l Corbal"
       ]
     }
   },
   "knowledge": {
-    "title": "Discover the Charm of Monsaraz Castle",
+    "title": "La Stória de l Castielho de Monsaraz",
+    "lead": "Por trás de las muralhas de postal stá mais de ocho seclos de stória de frunteira pertuesa — de la Reconquista i de ls Cabalheiros Templairos a ua fortaleza reconstruída por reis, abalada por guerras i renacida cumo lugar de siléncio, bino i streilhas.",
     "sections": [
       {
-        "id": "history",
-        "title": "History",
-        "content": "Built in the 13th century, Monsaraz Castle was a crucial part of Portugal's border defense system. It witnessed multiple clashes between Moors and Christians and played a key role in the Reconquista."
+        "id": "origins",
+        "title": "Ua Colina de Frunteira Mui Antiga",
+        "content": "Hai miles d'anhos que alguien ouserba esta paisaige. Las planices de l Alentejo an buolta de Monsaraz guardan un de ls cunjuntos megalíticos mais densos de la Ouropa — menires i cromeleques erguidos mui antes de eisistir castielho — i stradas romanas cruzárun alguas bezes la region.\n\nNe l período eislámico, un pequeinho poboado fortificado biolaba esta zona de frunteira. La posiçon dominante de la colina subre l bal de l Guadiana splica porque todas las poténcias de la region quisérun controlá-la."
+      },
+      {
+        "id": "reconquista",
+        "title": "La Reconquista i Giraldo Sin Pabor",
+        "content": "An 1167, l lendairo guerreiro de frunteira Giraldo Sin Pabor cunquistou Monsaraz als muçulmanos an nome de l purmeiro rei de Pertual, D. Afonso Henriques.\n\nLa cunquista nun fui defenitiba. Las fuorças almóadas retomórun la region an 1175, i solo depuis de las campanhas decisibas de 1232 ye que Monsaraz passou defenitibamente pa l Reino de Pertual. L castielho tornou-se anton un eilo eissencial na cadena de fortalezas que defendien l joven reino."
+      },
+      {
+        "id": "templars",
+        "title": "Un Castielho de ls Cabalheiros Templairos",
+        "content": "An 1232, l rei D. Sancho II dou Monsaraz a la Orde de ls Cabalheiros Templairos, cuja speriéncia de guerra de frunteira ls fazie guardiairos eideales desta zona de marcha. Un foral cuncedido pul rei D. Afonso III an 1276 cunfirmou la amportança de la bila.\n\nQuando ls Templairos fúrun stintos ne l ampeço de l seclo XIV, ls sous benes pertueses passórun pa la Orde de Cristo. Drento de la eigreja matriç de Santa Marie de la Lagoa inda se puode ber la sepultura de Gomes Martines Silbestre, nobre lhigado a la Orde."
       },
       {
         "id": "architecture",
-        "title": "Architecture & Views",
-        "content": "Constructed mainly from schist and limestone, the castle blends perfectly with the natural environment. From the main tower, you get a 360-degree view of the stunning Alentejo landscape."
+        "title": "Muralhas, Puortas i Torre de Menagem",
+        "content": "Por buolta de 1310, l rei D. Dinis mandou reconstruir i reforçar l castielho — obras que moldórun an grande parte la fortaleza que hoije se bé. Las muralhas, an xisto de la tierra cun cantarie de granito juntos a las puortas, fázen un perímetro oubal an buolta de la bila.\n\nLas muralhas éran abertas por quatro puortas: la Puorta de la Bila, antrada percipal coroada por ua torre de reloijo acrescentada an 1692, la Puorta de Ébora, la Puorta de la Alcoba i la Puorta de la Cisterna. Ne l anterior, l paço fortificado i la sue torre de menagem coróan l punto mais alto de la colina. L Lhibro de las Fortalezas de Duarte de Armas, de l ampeço de l seclo XVI, preserba un de ls zeinhos mais antigos de Monsaraz."
       },
       {
-        "id": "experience",
-        "title": "Core Experience",
-        "content": "Pass through the ancient gates, stroll along narrow streets exploring white houses and traditional craft shops, and wait for the sunset at the highest point of the castle."
+        "id": "decline",
+        "title": "De Praça de Guerra a Monumento Nacional",
+        "content": "Durante la Guerra de la Restouraçon (1640–1668), Monsaraz buoltou a mirar la frunteira spanhola. Angenheiros militares fransesos al serbício de Pertual, antre eilhes Nicolau de Langres i Jean Gillot, zaignórun fortificaçones abaluartadas an buolta de las muralhas antigas, i l Fuorte de S. Bento fui erguido fuora de la bila.\n\nQuando la paç buoltou i la sede de l cunceilho çceu pa Reguengos de Monsaraz ne l seclo XIX, la bila de l alto perdiu l sou papel melitar i admenistratibo — i, paradoxalmente, quedou guapa i antocada. An 1946, l castielho i las muralhas fúrun classeficados cumo Monumento Nacional. An 1987, la bila oufreciu simbolicamente las chabes de l castielho al Persidente de la República, Mário Soares, na sue bejita."
+      },
+      {
+        "id": "alqueva",
+        "title": "L Alqueba i l Cielo Streilado",
+        "content": "La maior mudança de la paisaige chegou ne l seclo XXI. La custruçon de la barraige de l Alqueba (1995–2002) criou un de ls maiores lagos artificiais de la Ouropa Oucidental, anundando l bal i aprossimando la auga de l castielho.\n\nLa region çcubriu anton un segundo tesouro: l sou cielo noturno, scepcionalmente limpo i scuro. La zona arrabaldeira fui certificada an 2011 cumo Dark Sky Alqueba, l purmeiro çtino de l mundo a recebir la certificaçon de Turismo Starlight. Hoije, lhantar ls uolhos a partir de l terreiro de l castielho nua nuite sin luna ye ua de las speriéncias mais memorables de l Alentejo."
       }
     ]
   },
   "basicInfo": {
-    "title": "Basic Information",
-    "officialName": "Official Name",
-    "officialNameValue": "Castelo de Monsaraz",
-    "type": "Attraction Type",
-    "typeValue": "Castle",
-    "country": "Country",
-    "countryValue": "Portugal",
-    "city": "City",
-    "cityValue": "Évora",
-    "googleRating": "Google Rating",
-    "address": "Address",
-    "addressValue": "Largo do Castelo 1, 7200-175 Évora, Portugal",
+    "title": "Anformaçones Eissenciales",
+    "officialName": "Nome Oufecial",
+    "officialNameValue": "Castielho de Monsaraz",
+    "type": "Tipo de Atraçon",
+    "typeValue": "Castielho mediebal i bila amuralhada de colina · Monumento Nacional",
+    "country": "Paíç",
+    "countryValue": "Pertual",
+    "region": "Region",
+    "regionValue": "Alentejo · Çtrito de Ébora · Cunceilho de Reguengos de Monsaraz",
+    "city": "Lhocalidade",
+    "cityValue": "Monsaraz",
+    "googleRating": "Classeficaçon Google",
+    "address": "Morada",
+    "addressValue": "Largo de l Castielho, Monsaraz, 7200-175 Reguengos de Monsaraz, Pertual",
     "plusCode": "Plus Code",
-    "plusCodeValue": "CJR9+V8 Mourão, Portugal"
+    "plusCodeValue": "CJR9+W8 · Mourão, Pertual",
+    "coordinates": "Cordenadas",
+    "coordinatesValue": "38.4431° N, 7.3806° O"
   },
   "hours": {
-    "title": "Opening Hours",
-    "outdoor": "Castle Area",
-    "outdoorTime": "Usually open 24 hours (subject to local arrangements)",
-    "lighthouse": "Indoor Exhibitions",
-    "summer": "Summer",
-    "summerTime": "09:00 - 18:00",
-    "winter": "Best Time to Visit",
-    "winterTime": "Spring to Autumn",
-    "warning": "Visiting Tips",
-    "warningTime": "Nighttime illumination is weak; please mind your safety.",
-    "tip": "Holiday hours may vary."
+    "title": "Horairos de Bejita",
+    "wallsTitle": "Castielho, Muralhas i Bila",
+    "wallsText": "L terreiro, las muralhas, las puortas i las rues de la bila amuralhada bé-se de baldre i stán normalmente abiertas 24 horas por die (son l coraçon bibo de la bila).",
+    "keepTitle": "Anteriores i Torre de Menagem",
+    "keepText": "La torre de menagem i ls spácios de spurtaçon drento de l monumento síguen horairos cúrtios i sazonales, que mudan d'anho pa anho. Cunfirme ne l lugar antes de planejar l die al sou redror.",
+    "seasonTitle": "Melhor Eipoca pa Bejitar",
+    "seasonText": "De abril a júnio i de setembre a outubre l tiempo ye mais agradable. Júlio i agosto son mui calientes, mas perfetos pa ls póres de l sol tardos; l ambierno ye calmo i limpo pa mirar las streilhas.",
+    "warning": "Nota Prática",
+    "warningTime": "La eiluminaçon noturna drento de la bila ye reduzida. Se quedar pa l pór de l sol ó pa mirar las streilhas, liebe ua lhanterna, cuidado cul calçado i note que l regresso als parques de staçonamiento ye scuro an alguns troços.",
+    "tip": "Ls horairos puoden mudar an feriados i durante las fiestas locales — cunfirme siempre cul posto de turismo municipal antes de la bejita."
   },
   "tickets": {
-    "title": "Ticket Information",
-    "outdoor": "Main Castle Area",
-    "outdoorPrice": "Free Admission",
-    "lighthouse": "Special Exhibitions",
-    "adults": "Adults",
-    "adultsPrice": "Varies by exhibition",
-    "students": "Students/Children",
-    "studentsPrice": "Varies by exhibition",
-    "children": "Parking Fee",
-    "childrenPrice": "Free parking outside the town",
-    "card": "Booking Advice",
-    "cardPrice": "Most areas are free; no advance booking required."
+    "title": "Antradas i Bilhetes",
+    "mainTitle": "Antrada ne l Monumento",
+    "mainText": "L acesso al terreiro de l castielho, a las muralhas i a las rues de la bila amuralhada ye de baldre i nun requier bilhete. Por ser ua bila biba, nun hai purta única nin bilheteirie central.",
+    "keepTitle": "Torre de Menagem i Spurtaçones",
+    "keepText": "Las bejitas guiadas i las spurtaçones temporaries ó monumentos abiertos cun horairo lhemitado (torre, eigreijas, pequeinhos museus) ténen précios bariables, fixados pulas antidades ourganizadoras.",
+    "parkingTitle": "Staçonamiento",
+    "parkingText": "Bários parques de baldre lhadeian las stradas mesmo juntos a las muralhas. Circular de carro drento de la bila ye reserbado als moradores. An época alta, ls lugares acában a la mie die de la manhana.",
+    "noteTitle": "Cunselho Sincero",
+    "noteText": "L monumento a la aire lhibre nun ten bilheteirie online — basta chegar. Se quier bisitar l anterior de la torre ó dua eigreja, pergunte ne l posto de turismo local qual l horairo de l die."
   },
   "transport": {
-    "title": "Transportation",
-    "airport": "From the Airport",
-    "airportDesc": "The nearest international airport is Lisbon Airport (LIS), about 180 km away (a 2-hour drive); Faro Airport (FAO) is about 210 km away (a 2.5-hour drive). Renting a car at the airport is highly recommended.",
-    "selfDrive": "Driving",
-    "selfDriveDesc": "From Lisbon: Take the A2 highway south, connect to the A6 towards Évora, then follow the N18 and N256 roads. Navigate to Monsaraz; there are several free parking lots outside the town. Note that vehicle access is restricted inside the walls.",
-    "bus": "Public Transport",
-    "busDesc": "Take a Rede Expressos bus from Lisbon Sete Rios to Évora or Reguengos de Monsaraz. From Reguengos, you must take a local bus (Rodoviária do Alentejo) or a taxi to Monsaraz (approx. 15 km).",
-    "intercity": "Walking",
-    "intercityDesc": "After parking outside the town, you will walk through the ancient gates to enter. The entire town features cobblestone streets, so wear comfortable shoes.",
-    "cycling": "Cycling",
-    "cyclingDesc": "The surrounding Alentejo region and Alqueva reservoir offer relatively flat and scenic routes, perfect for both road and mountain biking.",
-    "tips": "Travel Tips",
-    "tipsDesc": "Due to limited public transport schedules in the Alentejo region, renting a car is strongly advised for the flexibility to explore nearby wineries, megalithic monuments, and the Alqueva Dam."
+    "title": "Cumo Chegar",
+    "airport": "De ls Aeroportos",
+    "airportDesc": "L aeroporto de Lhisboua (LIS) queda a cerca de 180 km (cerca de 2 horas de carro); l de Faro (FAO) a cerca de 210 km (cerca de 2h30). Alugar carro ne l aeroporto ye, de lhuenho, la melhor oupçon pa esta region.",
+    "selfDrive": "De Carro",
+    "selfDriveDesc": "A partir de Lhisboua: A2 pa l sul, depuis A6 na direçon de Ébora i cuntinar pula IP2/N18 até Reguengos de Monsaraz, acabando an stradas locales que suben até a la bila. A partir de Spanha (Badajoz), la A6 i la N256 chégan a la mesma zona. Sígane las andicaçones pa Monsaraz; hai bários parques de baldre mesmo fuora de las muralhas.",
+    "bus": "Trasportes Públicos",
+    "busDesc": "Ls outocarro Rede Expressos lhigan Lhisboua (Sete Rios) a Ébora i a Reguengos de Monsaraz. De Reguengos, un serbício local de la Rodobiária de l Alentejo ó un táxi percorre ls redadeiros 15 km até Monsaraz. Ls horairos son scassos — cunfirme siempre l horairo atual antes de bieijar.",
+    "intercity": "Cumo Circular",
+    "intercityDesc": "Drento de las muralhas to se faç a pie. De ls parques de staçonamiento antra-se pulas puortas stóricas i sobe-se puls rueiros de calçada até al castielho. La subida ye cúrtie, mas angremida an alguns troços.",
+    "cycling": "De Bicicleta",
+    "cyclingDesc": "Las stradas suabemente anduladas an buolta de Monsaraz i de l albufeira de l Alqueba son preferidas puls ciclistas de strada i de gravel. Atençon: la subida final até a la bila ye angremida.",
+    "tips": "Cunselhos de Biaige",
+    "tipsDesc": "Cumo ls trasportes públicos son lhemitados, un carro alugado dou-lhe lhibardade pa cumbinar Monsaraz cula borda de l Alqueba, quintas de bino, ls sítios megalíticos (menires i cromeleques) i la bila de l barro de S. Pedro de l Corbal."
+  },
+  "weather": {
+    "title": "Meteorologie an Monsaraz",
+    "subtitle": "Tiempo atual i prebison pa l topo de la colina (38.44° N, 7.38° O), atualizado de 30 an 30 minutos via Open-Meteo.",
+    "current": "Agora",
+    "updated": "Atualizado",
+    "feels": "Sençon térmica",
+    "wind": "Biento",
+    "humidity": "Humedade",
+    "forecast": "Prebison",
+    "source": "Dados meteorológicos: Open-Meteo (open-meteo.com)",
+    "unavailable": "Ls dados meteorológicos stán temporariamente andisponibles. Cunsulte ua prebison local antes de bieijar.",
+    "groups": {
+      "clear": "Cielo limpo",
+      "partly": "Pouco nublado",
+      "cloud": "Nublado",
+      "fog": "Nebrina",
+      "drizzle": "Orbalho",
+      "rain": "Chuba",
+      "snow": "Nebe",
+      "showers": "Augaceiros",
+      "thunder": "Troboada"
+    }
   },
   "route": {
-    "title": "Visiting Route",
-    "overview": "It is recommended to allocate half a day. Enter through the main gate, explore the main street, and finally ascend the castle tower for panoramic views.",
+    "title": "Roteiro Sugerido a Pie",
+    "overview": "Mie die chega pa apreciar la bila i l castielho cun calma; un die anteiro permite acrecentar la borda de l Alqueba. Eis un percurso natural que ampeça ne l parque de staçonamiento i regressa al punto de partida.",
     "steps": [
-      "Arrive at the parking lot outside town and walk to Porta da Vila",
-      "Stroll along Rua Direita, admiring the white houses",
-      "Visit Igreja Matriz de Nossa Senhora da Lagoa",
-      "Head to the castle area and climb the walls",
-      "Enjoy the breathtaking view of the Alqueva Dam from the main tower",
-      "Wait for the beautiful sunset on the walls",
-      "Enjoy Alentejo specialties at a traditional restaurant"
+      "Stacione nun de ls parques de baldre ambaixo de las muralhas i suba até a la puorta percipal, la Puorta de la Bila, cula sue torre de reloijo de 1692.",
+      "Pare ambaixo de l arco adonde stán grabadas las antigas medidas de comércio, i cuntine pula Rue Dreita, la rue percipal de casas blancas.",
+      "Chegue al largo percipal cul pelourinho, la antiga eigreja de la Misericórdie i ls Paços de l Cunceilho.",
+      "Bisite la eigreja matriç de Nuossa Senhora de la Lagoa — percurie alhi drento la sepultura mediebal de Gomes Martines Silbestre.",
+      "Suba al terreiro de l castielho i percorra l perímetro de las muralhas pa l grande panorama subre la bila, las planices de l Alentejo i l Alqueba.",
+      "De las muralhas, percurie l Fuorte de S. Bento, l fuorte abaluartado de l seclo XVII que defendie l castielho de la frunteira spanhola.",
+      "Percorra depuis ls rueiros mais tranquilos i antre nas pequeinhas loijas i galaries de artesanato, bino i barro.",
+      "Quede pa l pór de l sol nas muralhas poentes — la luç caliente subre la bila caiada ye ançquecible.",
+      "Nua nuite limpa, quede mais un pouco: l terreiro ye un de ls mirandouros de cielo scuro mais acessibles de la reserve."
     ],
+    "supplementsTitle": "Anformaçon Útil",
     "supplements": [
-      "Cobblestone streets can be slippery; wear comfortable, non-slip shoes.",
-      "Dining options are limited; booking in advance during peak season is advised.",
-      "Summer midday sun is intense; stay hydrated and use sun protection."
-    ],
-    "supplementsTitle": "Visiting Notes"
+      "La calçada queda scorregadie cula chuba i ye eirregular — use sapatos rasos i antiderrapantes.",
+      "La restouraçon i las loijas drento de las muralhas resúmen-se a poucos restaurantes, snack-bares i pequeinhas loijas; an época alta, reserve mesa cedo.",
+      "La calor de l meio-die ne l berano ye antensa i hai pouca selombra: reserbe las bejitas anteriores (eigreijas, spácios museológicos) pa las horas mais calientes.",
+      "Las retretes públicas de baldre scasseian drento de la bila; cafés i restaurantes reserban normalmente las sues anstalaçones pa ls clientes.",
+      "Se quedar de nuite pa mirar las streilhas, liebe roupa de abrigo mesmo ne l berano — na colina las nuites arrefécen debrece."
+    ]
   },
   "photoSpots": {
-    "title": "Photo Spots",
+    "title": "Melhores Lhugares pa Fotografiar",
     "spots": [
       {
-        "name": "Castle Main Tower",
-        "desc": "The best spot overlooking the Alqueva Dam and the town panorama."
+        "name": "Terreiro de l Castielho i Torre de Menagem",
+        "desc": "L mirandouro mais alto: la torre i las muralhas anquadran la bila alhá an baixo i l albufeira de l Alqueba ne l hourizonte."
       },
       {
-        "name": "Ancient Gates",
-        "desc": "Historic backgrounds with massive walls and arches."
+        "name": "Puorta de la Bila",
+        "desc": "La puorta percipal cula torre de reloijo de 1692 ye l retrato clássico de la antrada, subretodo cula luç de la manhana."
       },
       {
-        "name": "White Streets",
-        "desc": "Narrow cobblestone streets lined with exotic white houses."
+        "name": "Rue Dreita",
+        "desc": "La rue percipal caiada, cun basos de flores i socos azules, ye l Alentejo an stado puro."
+      },
+      {
+        "name": "Largo de l Pelourinho",
+        "desc": "L pelourinho, la eigreja de la Misericórdie i las fachadas blancas fázen la cena perfeta de praça mediebal."
+      },
+      {
+        "name": "Muralhas Poentes al Pór de l Sol",
+        "desc": "La hora dourada subre las planices i l lago: chegue 30 minutos antes de l pór de l sol pa scolher l melhor lhugar."
+      },
+      {
+        "name": "Bista de l Alqueba a la Nuite",
+        "desc": "Cul cielo limpo, l terreiro torna-se un ouserbatório natural — basta un tripé i ua oubjetiba grande-anqular."
       }
     ],
-    "tips": "Photography Tips",
-    "tipsContent": "Sunrise and sunset offer the softest light. It is also an excellent spot for night sky photography."
+    "tips": "Cunselhos de Fotografie",
+    "tipsContent": "De manhana la luç ye suabe subre la bila i ls rueiros ganhan selombas cumpridas; al fin de l die l sol eilumina las muralhas poentes i l lago. A la nuite, las nuites sin luna oufrécen ls cielos mais scuros de la reserve Dark Sky Alqueba. Liebe ua lhanterna de cabeça cun luç burmeilha pa preserbar la beison noturna — la sue i la de ls outros ouserbadores."
+  },
+  "facilities": {
+    "title": "Serbícios i Cumidades",
+    "note": "Monsaraz ye ua pequeinha bila biba, nun un parque temático. Ls serbícios ambaixo stán andicados solo por tipo — cumo guia andependiente i sin fins comerciales, nun recomendamos stablecimientos cuncretos. La çponibelidade muda cula eipoca, por esso cunfirme sempre ne l lugar.",
+    "items": [
+      {
+        "title": "Retretes (WC)",
+        "desc": "Las retretes públicas drento de las muralhas son poucas. Eesisten anstalaçones públicas junto a las zonas de staçonamiento i ne ls serbícios lhigados al turismo de la bila. Cafés i restaurantes sírben normalmente ls sous própios clientes."
+      },
+      {
+        "title": "Staçonamiento",
+        "desc": "Parques públicos de baldre lhadeian las stradas de acesso logo ambaixo de las muralhas. Drento de la bila la circulaçon ye restrita. An júlio, agosto i fins de sumana lhongos, chegue antes de las 10h00 ó aceite ua caminada mais lhonga."
+      },
+      {
+        "title": "Restouraçon i Cafés",
+        "desc": "Drento de las muralhas ancontra un puinho de restaurantes tradecionales, snack-bares i cafés cun quemido alentejano i binos locales. La oufierta ye pequeinha — reserbe mesa cun antecedéncia an época alta."
+      },
+      {
+        "title": "Alojamiento",
+        "desc": "La bila oufrece un pequeinho númaro de casas de hóspedes, casas de campo i alojamientos locales. La maiorie de ls bejitantes queda ne l cunceilho de Reguengos de Monsaraz ó nas bordas de l Alqueba. Bé la secçon de alojamiento arriba pa ourientaçon general."
+      },
+      {
+        "title": "Cumpras i Mercearies",
+        "desc": "Nun hai supermercado drento de las muralhas — solo pequeinhas loijas de cumbeniéncia cun stock lhemitado. Pa cumpras cumpletas, use ls supermercados de Reguengos de Monsaraz (a cerca de 15 km) antes de chegar."
+      },
+      {
+        "title": "Cumbustible i Carregamiento Elétrico",
+        "desc": "Nun hai posto de cumbustible drento de la bila. Las bombas de gasolina mais próssimas quedan an Reguengos de Monsaraz i nas stradas de acesso a la zona de l Alqueba. Puntos de carregamiento pa carros eilétricos eisisten tamien ne ls centros maiores próssimos."
+      },
+      {
+        "title": "Caixas Multibanco i Denheiro",
+        "desc": "Nun hai multibanco permanente drento de las muralhas. Liebe denheiro pa las pequeinhas loijas i cafés ó lhebante an Reguengos de Monsaraz. Ls cartones son aceites na maiorie de ls restaurantes i loijas maiores."
+      },
+      {
+        "title": "Farmácie i Salude",
+        "desc": "La farmácie mais próssima queda an Reguengos de Monsaraz. Pa situaçones ourgentes, dirija-se al centro de salude dessa bila ó, an causos grabes, als heipitais de Ébora ó de Beja. Liebe cunsigo qualquiera medicaçon de que percisse."
+      },
+      {
+        "title": "Auga Potable i Selombra",
+        "desc": "Las fuontes públicas de auga son raras ne l topo de la colina. Ne l berano liebe la sue própia auga — pul menos un litro por pessona — i planege paradas a la selombra nas horas mais calientes."
+      }
+    ]
+  },
+  "stories": {
+    "title": "Stórias i Lendas",
+    "subtitle": "Por trás de las muralhas: seis eipisódios berdadeiros — i ua lenda biba — que moldórun Monsaraz.",
+    "items": [
+      {
+        "badge": "Stória decumentada",
+        "title": "Giraldo Sin Pabor i la cunquista de 1167",
+        "text": "An 1167, l célebre capitano de frunteira Giraldo Sin Pabor tomou Monsaraz als muçulmanos an nome de l rei D. Afonso Henriques. Fui ua de las arrojadas anbestidas que lhebórun la frunteira de l joven reino pa drento de l Alentejo. L triunfo fui cúrtio: ls almóadas retomórun la region an 1175, i solo depuis de las campanhas de 1232 la colina quedou defenitibamente pertuesa."
+      },
+      {
+        "badge": "Stória decumentada",
+        "title": "Guardiairos de manto branco: ls Templairos",
+        "text": "An 1232, l rei D. Sancho II antregou Monsaraz als Cabalheiros Templairos, beteranos de la guerra de frunteira. Por adonde serbien deixában marca — i Monsaraz nun fui sceiçon. Drento de la eigreja matriç de Santa Marie de la Lagoa repousa la sepultura grabada de Gomes Martines Silbestre, nobre lhigado a la Orde, i cruzes templairas cuntínan grabadas na piedra de la region. Quando la Orde fui stinta an 1312, ls sous benes pertueses passórun pa la sucessora Orde de Cristo."
+      },
+      {
+        "badge": "Stória decumentada",
+        "title": "Orde dun rei: D. Dinis reconstrói (c. 1310)",
+        "text": "Ne l ampeço de l seclo XIV, l rei D. Dinis, l Rei Lhabrador que erguiu tantos castielhos de Pertual, mandou reconstruir i reforçar Monsaraz. La obra dou a la fortaleza la silhueta atual: ua torre de menagem i un paço ne l cimo, ua cortina oubal de muralhas de xisto an buolta de la bila i puortas de granito sólido. Durante trés seclos fui esta la fortaleza que la frunteira conheciu."
+      },
+      {
+        "badge": "Stória i lenda",
+        "title": "La crise de 1383–85: quando l castielho mudou de manos",
+        "text": "Durante la grande crise dinástica de 1383–85, Monsaraz antrou na guerra antre Pertual i Castielha. Fuorças castelhanas tomórun l castielho, i solo depuis de la bitória pertuesa an Aljubarrota ye que l cundestable D. Nuno Álvares Pereira l deblhou al rei D. Juan I. La tradiçon local recorda inda esses meses tensos an que la colina mudou de manos i la frunteira podie tener caído pa qualquiera lado."
+      },
+      {
+        "badge": "Stória decumentada",
+        "title": "Baluartes contra Spanha: l seclo XVII",
+        "text": "Depuis de 1640, Pertual lhutou ua lhonga Guerra de la Restouraçon pa manter la andependéncia de Spanha. Monsaraz buoltou a ser fortaleza de la lhinha de frunteira. Angeinheiros fransesos al serbício pertués — Nicolau de Langres i Jean Gillot — zaignórun baluartes an streilha an buolta de las muralhas mediebales, i l Fuorte de S. Bento fui erguido mesmo fuora de la bila. Hoije, las sues silhuetas rasas son ua relíquia tranquila de l seclo guerreiro."
+      },
+      {
+        "badge": "Stória moderna",
+        "title": "Las chabes de l castielho i l renacimiento streilado",
+        "text": "An 1987, l pobo de Monsaraz oufreciu simbolicamente las chabes de l sou castielho al Persidente Mário Soares — un gesto d'amisade dua bila cuja fortaleza yá nun tenie qualquiera uso melitar. Depuis beno l Alqueba: la grande barraige anchiu l bal depuis de 2002, trasformando la fortaleza de frunteira nun mirandouro subre la auga. An 2011, la region fui certificada cumo Dark Sky Alqueba, l purmeiro çtino mundial de Turismo Starlight. L bieilo sentinela de la frunteira beiga agora la auga, las binhas — i las streilhas."
+      }
+    ]
   },
   "hotels": {
-    "title": "Accommodation Suggestions",
+    "title": "Adonde Quedar",
     "hotels": [
       {
-        "name": "Traditional Townhouses",
-        "desc": "Experience authentic Alentejo charm with views right from your window.",
-        "price": "Moderate prices, advance booking required"
+        "name": "Alojamientos Drento de las Muralhas",
+        "desc": "Poucas casas de hóspedes i alojamientos locales acupan casas recuperadas de la bila, cul pór de l sol i l cielo streilado a la puorta.",
+        "price": "Précios médios · reserbe cun muita antecedéncia"
       },
       {
-        "name": "Nearby Country Estates",
-        "desc": "Quiet environments, usually with a pool, ideal for drivers.",
-        "price": "Diverse choices, high value for money"
+        "name": "Casas de Campo cun Bista pa l Alqueba",
+        "desc": "Na borda de l Alqueba i ne l cunceilho, casas de campo i pequeinhos hotéis oufrécen piscina, sossiego i bistas spetaculares — eideales pa quien bieija de carro.",
+        "price": "Buona relaçon précio-qualidade · reserbe cedo ne l berano"
       }
     ],
-    "supplements": "Accommodation Notes",
-    "supplementsContent": "Accommodation in the town is limited. If fully booked, consider staying in nearby Reguengos de Monsaraz."
+    "supplements": "Notas de Alojamiento",
+    "supplementsContent": "Ls quartos drento de Monsaraz son poucos i acában debrece pa ls fins de sumana de berano i las fiestas locales. Se la bila stá cheia, la bila de Reguengos de Monsaraz (15 km) i la borda de l Alqueba oufrécen mais oupçones — i ambas son buonas bases pa splorar la region."
   },
   "gallery": {
-    "title": "Stunning Photos",
-    "subtitle": "Charming Scenery of Monsaraz Castle",
+    "title": "Galarie de Fotos",
+    "subtitle": "La bila, las muralhas i l lago",
     "captions": [
-      "Castle Panorama",
-      "Ancient Walls",
-      "Overlooking Alqueva Dam",
-      "White Houses and Cobblestones",
-      "Magnificent Sunset",
-      "Starry Night Sky",
-      "Historic City Gate",
-      "Traditional Craft Shop",
-      "Main Church",
-      "Castle Courtyard",
-      "Alentejo Plains",
-      "Defense Tower",
-      "Quiet Town Corner",
-      "White Walls in the Sun",
-      "Distant Landscape",
-      "Castle at Dusk",
-      "Medieval Details",
-      "Spring Wildflowers",
-      "Reservoir View",
-      "Distant Castle View"
+      "L castielho subre la bila",
+      "Muralhas mediebales cun luç caliente",
+      "Bista subre l Alqueba",
+      "Casas blancas i rueiros de calçada",
+      "Pór de l sol subre las planices alentejanas",
+      "L cielo scuro subre Monsaraz",
+      "Puorta de la Bila stórica",
+      "Loijas i artesanato na bila",
+      "Eigreja matriç de Santa Marie de la Lagoa",
+      "L pátio de l castielho",
+      "Paisaige andulada de l Alentejo",
+      "La torre de menagem",
+      "Un canto sossegado de la bila",
+      "Paredes caiadas al sol",
+      "Las planices até al hourizonte",
+      "L castielho al antardecer",
+      "Pormenores de piedra grabada",
+      "Flores de primabera antre las piedras",
+      "L albufeira ne l sopé de la colina",
+      "Monsaraz bisto de ambaixo"
     ],
-    "viewAll": "View more photos on Google Maps",
-    "showAllPhotos": "Show All Photos"
+    "viewAll": "Mais fotos ne l Google Maps",
+    "showAllPhotos": "Ber Todas las Fotos"
   },
   "reviews": {
-    "title": "Visitor Reviews",
-    "declaration": "Review information can be viewed via Google Maps (external link).",
-    "moreReviews": "View More Reviews on Google Maps",
+    "title": "L Que Dízen ls Bejitantes",
+    "declaration": "Ls comentairos ambaixo refletén la oupinion de outelizadores de l Google Maps (classeficaçon média ne l topo de la páigina). Este sítio andependiente nun ten lhigaçon a nanhun negócio ó antidade oufecial.",
+    "moreReviews": "Ber Mais Comentairos ne l Google Maps",
     "items": [
       {
         "name": "João Silva",
-        "date": "2 months ago",
+        "date": "hai 2 meses",
         "rating": 5,
-        "text": "A wonderfully preserved medieval village! The cobblestone streets and white houses are full of history, and the view of Lake Alqueva from the walls is simply unparalleled. Highly recommend visiting at sunset."
+        "text": "Ua bila mediebal marabilhosamente preserbada! Ls rueiros de calçada i las casas blancas stán cheios de stória, i la bista de l Alqueba a partir de las muralhas ye simplesmente ancomparable. Recomendo muito benir al pór de l sol."
       },
       {
         "name": "Maria Costa",
-        "date": "1 month ago",
+        "date": "hai 1 mês",
         "rating": 5,
-        "text": "One of the most beautiful towns in Portugal! The tranquility here is relaxing, and the surrounding scenery is spectacular. Just be careful, it gets very hot in the summer, so remember to bring water and sunscreen."
+        "text": "Ua de las bilas de colina mais guapas de Pertual. Tan tranquila que ye defícel ir ambora. Ne l berano fai muito calor — lieben auga i protetor solar."
       },
       {
         "name": "Carlos Rodrigues",
-        "date": "3 months ago",
+        "date": "hai 3 meses",
         "rating": 4,
-        "text": "Amazing place. The castle isn't huge, but the location is perfect. Had a fantastic traditional Portuguese meal at a restaurant in the village. The only issue is that parking can be hard to find in peak season."
+        "text": "Lugar fantástico. L castielho nun ye anorme, mas la posiçon ye perfeta, i fizemos ua refeiçon tradecional marabilhosa na bila. La única defeculdade ye l staçonamiento an época alta — chegen cedo."
       },
       {
         "name": "Ana Martins",
-        "date": "Over 6 months ago",
+        "date": "hai mais de 6 meses",
         "rating": 5,
-        "text": "A very romantic and charming place. We stayed here for a night, and stargazing was an absolute highlight since it's a famous dark sky reserve in Europe. Completely fell in love with it!"
+        "text": "Quedemos ua nuite i mirar las streilhas a partir de las muralhas fui l punto mais alto absoluto — l cielo ye ancreiblemente limpo. Amorámos cumpletamente por este lugar."
       },
       {
         "name": "Pedro Santos",
-        "date": "1 year ago",
+        "date": "hai 1 anho",
         "rating": 5,
-        "text": "The panoramic view here is truly breathtaking. You can see the reservoir and the vast plains intertwined. The town itself is also charming with many small shops selling local handicrafts."
+        "text": "L panorama ye de cortar la respiraçon: l albufeira i las planices anmensas nun solo anquadramiento. La bila ye ancantadora, cun pequeinhas loijas de bino i artesanato locales."
       },
       {
         "name": "Teresa Ferreira",
-        "date": "Over 6 months ago",
+        "date": "hai mais de 6 meses",
         "rating": 4,
-        "text": "Well worth a visit! Very easy to drive from Évora. Recommend wearing flat shoes because it's all cobblestones. The people in town are very friendly, and there are many great spots for photos."
+        "text": "Muito fácele de cunduzir a partir de Ébora. Usen sapatos rasos — to ye calçada — i seran recompensados cun anfinitos cantos pa fotografar."
       },
       {
         "name": "Rui Almeida",
-        "date": "3 months ago",
+        "date": "hai 3 meses",
         "rating": 5,
-        "text": "Felt like stepping back into the Middle Ages! Every alley and every door has its story. Time seems to stand still when walking on the walls. A must-visit place in the Alentejo region."
+        "text": "Parece que antramos na Eidade Média. Cada beco i cada puorta ten ua stória, i l tiempo parece parar nas muralhas. Bejita oubrigatória ne l Alentejo."
       },
       {
         "name": "Catarina Gomes",
-        "date": "2 months ago",
+        "date": "hai 2 meses",
         "rating": 5,
-        "text": "Too beautiful to describe with words. Whether it's the ancient castle ruins or the blue lake water below, it makes you linger. Especially recommend going to the top of the tower, although it's very windy, the view is the best."
+        "text": "Guapo demales pa palabras — la piedra antiga i l lago azul alhá an baixo. Suban al topo de la torre se puodiren: fai biento, mas la bista ye la melhor de la region."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "items": [
+      {
+        "q": "La antrada ne l Castielho de Monsaraz ye paga?",
+        "a": "Nun. L terreiro de l castielho, las muralhas, las puortas i las rues de la bila amuralhada son d'acesso lhibre i de baldre. Solo alguns anteriores (la torre quando stá abierta, eigreijas i spácios de spurtaçon) puoden tener antradas própias, fixadas pulas antidades ourganizadoras."
+      },
+      {
+        "q": "Quales son ls horairos de bejita?",
+        "a": "L monumento a la aire lhibre i las rues de la bila stán normalmente acessibles 24 horas por die. Ls atratibos anteriores, cumo la torre de menagem i la eigreja matriç, síguen horairos cúrtios i sazonales que mudan d'anho pa anho — cunfirme ne l lugar ó ne l posto de turismo municipal."
+      },
+      {
+        "q": "Quanto tiempo debe reserbar pa la bejita?",
+        "a": "Duas a trés horas chégan pa ber la bila i l castielho cun calma. Pa acrecentar l pór de l sol i las streilhas, ó cumbinar cula borda de l Alqueba i ls monumentos megalíticos, planege un die anteiro ó ua nuite."
+      },
+      {
+        "q": "Adonde puodo stacionar?",
+        "a": "Hai bários parques públicos de baldre nas stradas de acesso logo ambaixo de las muralhas (la circulaçon drento de la bila ye restrita als moradores). Ls lugares acában debrece an júlio, agosto i fins de sumana lhongos — chegue antes de l meio de la manhana ó stacione mais ambaixo i camine."
+      },
+      {
+        "q": "Hai retretes, restaurantes i loijas na bila?",
+        "a": "Sim, mas an pequeinha scala. Drento de las muralhas ancontra alguns restaurantes, snack-bares, cafés i loijas de artesanato, para alhá de retretes públicas mui lhemitadas. Nun hai supermercado na bila — las cumpras cumpletas fázen-se an Reguengos de Monsaraz, a cerca de 15 km."
+      },
+      {
+        "q": "Qual ye la melhor eipoca i la melhor hora pa bejitar?",
+        "a": "Na primabera i ne l outubre (abril–júnio, setembre–outubre) las temperaturas son mais agradables. Ls dies de berano son mui calientes i aproveitan-se melhor cedo ó al fin de l die. Pa fotografiar, la manhana i l pór de l sol son eideales; pa mirar streilhas, scolha ua nuite limpa i sin luna."
+      },
+      {
+        "q": "Monsaraz ye acessible a pessonas cun mobelidade reduzida?",
+        "a": "An parte. La bila amuralhada ye angremida i quaije toda an calçada, cun scalas an bários puntos, pul que la torre i partes de las muralhas nun son acessibles a cadeiras de rodas. Stacionar pie de las puortas abrebeia bastante l caminho até a la rue percipal."
+      },
+      {
+        "q": "Bal la pena drumir an Monsaraz?",
+        "a": "Se pudir, sim — la bila buoita a quedar balieira al pór de l sol i quedamos culas muralhas, l lago i la reserve de cielo scuro quaije solo para nós. Ls quartos son poucos, por esso reserbe cun meses de antecedéncia pa ls fins de sumana de berano, ó quede an Reguengos de Monsaraz ó na borda de l Alqueba."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Fuontes i Lheituras Cumplementares",
+    "subtitle": "L cuntenido desta páigina fui cumpilado a partir de las seguintes fuontes oufeciales i de referéncia (maioritariamente an pertués). Cunfirme siempre la anformaçon atual junto de las antidades oufeciales antes de bieijar.",
+    "updated": "Cuntenido de la páigina rebisto an: 4 de setembre de 2026",
+    "items": [
+      {
+        "name": "Bisit Pertual — Castielho de Monsaraz",
+        "url": "https://www.visitportugal.com/pt"
+      },
+      {
+        "name": "Património Cultural (Direçon-Giral de l Património Cultural)",
+        "url": "https://www.patrimoniocultural.gov.pt/"
+      },
+      {
+        "name": "Monumentos — Sistema de Anformaçon pa l Património Arquitetónico (SIPA)",
+        "url": "https://www.monumentos.gov.pt/"
+      },
+      {
+        "name": "Cunceilho de Reguengos de Monsaraz — Castielho i fortificaçon mediebal",
+        "url": "https://www.cm-reguengos-monsaraz.pt/locais/castelo-e-fortificacao-medieval/"
+      },
+      {
+        "name": "Turismo de l Alentejo — Castielho de Monsaraz",
+        "url": "https://www.visitalentejo.pt/pt/catalogo/o-que-fazer/museus-e-monumentos/castelo-de-monsaraz/"
+      },
+      {
+        "name": "Dark Sky Alqueba",
+        "url": "https://darkskyalqueva.com"
       }
     ]
   },
   "mapSection": {
-    "title": "Transportation Guide",
-    "subtitle": "Largo do Castelo 1, 7200-175 Évora, Portugal",
-    "openMaps": "View on Google Maps"
+    "title": "Mapa i Lhocalizaçon",
+    "subtitle": "Largo de l Castielho, Monsaraz, 7200-175 Reguengos de Monsaraz, Pertual",
+    "openMaps": "Ber ne l Google Maps"
   },
   "footer": {
-    "rights": "© 2026 Monsaraz Castle. All rights reserved.",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service",
-    "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Related Resources & Information",
-    "officialLinks": {
-      "council": "Visit Portugal",
-      "tourism": "Alentejo Tourism Guide",
-      "england": "Reguengos de Monsaraz City Council"
-    },
-    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+    "rights": "© 2026 Castielho de Monsaraz — guia andependiente de l bejitante.",
+    "privacy": "Política de Priebacidade",
+    "terms": "Termos de Outelizaçon",
+    "cookies": "Defeniçones de Cookies",
+    "officialResourcesTitle": "Recursos Oufeciales",
+    "officialLinks": [
+      {
+        "name": "Bisit Pertual",
+        "url": "https://www.visitportugal.com/pt"
+      },
+      {
+        "name": "Património Cultural",
+        "url": "https://www.patrimoniocultural.gov.pt/"
+      },
+      {
+        "name": "Cunceilho de Reguengos de Monsaraz",
+        "url": "https://www.cm-reguengos-monsaraz.pt/"
+      },
+      {
+        "name": "Turismo de l Alentejo",
+        "url": "https://www.visitalentejo.pt/"
+      },
+      {
+        "name": "Dark Sky Alqueba",
+        "url": "https://darkskyalqueva.com"
+      }
+    ],
+    "disclaimer": "Este sítio ye un guia eiducatibo, andependiente i sin fins comerciales. Nun tenemos qualquiera lhigaçon a — nin somos adossados por — antidades oufeciales, empresas ó atraçones. Ls serbícios andicados refíren-se solo a tipos de stablecimiento i puoden mudar — cunfirme siempre culas fuontes oufeciales arriba.",
+    "photoCredit": "Todas las eimaiges apersentadas neste sítio pertencen als sous outones de las fotos, que cunserban la sue porpiedade i dreitos d'outor."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "lastUpdated": "Last Updated: May 2026",
+    "title": "Política de Priebacidade",
+    "lastUpdated": "Redadeira atualizaçon: 4 de setembre de 2026",
     "sections": [
       {
-        "heading": "1. Information We Collect",
-        "content": "We only collect the minimum data necessary to provide our services. This data may include: browsing data (IP address, browser type, visited pages), cookies and similar technologies, and any information you voluntarily provide via contact forms or email."
+        "heading": "1. Anformaçones que Recolhemos",
+        "content": "Recolhemos ls dados mínimos necesairos al funcionamiento deste sítio: registos técnicos (andereço IP, tipo de nabegador, páiginas besitadas), cookies i tecnologies semelhantes, i qualquiera anformaçon que mos ambie beluntariamente por eimail ó formulairo. Nun eisigimos cunta i nun benemos dados."
       },
       {
-        "heading": "2. How We Use Your Information",
-        "content": "We use the collected information to: improve website content and user experience, analyze traffic and usage patterns, respond to requests, and comply with our legal obligations."
+        "heading": "2. Cumo Outelizamos las Suas Anformaçones",
+        "content": "Outelizamos estas anformaçones pa manter i melhorar l sítio, cumprender padrones gerales de tráfego i responder a mensaiges. Se atibar las cookies analíticas, l Google Analytics puode recolher statísticas anónimas i agregadas an nuosso nome."
       },
       {
-        "heading": "3. Third-Party Services",
-        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+        "heading": "3. Serbícios de Terceiros",
+        "content": "Este sítio ancorpora l Google Maps (pa l mapa de lhocalizaçon) i outeliza l Google Analytics (solo cul sou cunsentimiento). Ls dados meteorológicos son fornecidos pula Open-Meteo. Cada serbício funciona segundu la sue própia política de priebacidade."
       },
       {
-        "heading": "4. Your Rights",
-        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority."
+        "heading": "4. Cookies",
+        "content": "Las cookies eissenciales manténen l sítio a funcionar i recordan las sues preferéncias (lhéngua i tema). Las cookies analíticas son solo atibadas depuis de l sou cunsentimiento, i puode mudar la sue scolha a qualquiera momento na páigina de Defeniçones de Cookies."
+      },
+      {
+        "heading": "5. Ls Sous Dreitos",
+        "content": "Al amparo de l Regulamiento Giral subre la Proteçon de Dados (RGPD), puode solicitar l acesso, la retificaçon ó la eliminaçon de ls sous dados pessonales, ouponer-se al tratamiento i apersentar reclamaçon a ua outoridade de cuntrole (an Pertual, la CNPD). Cuntate-mos puls canhales andicados neste sítio."
       }
     ]
   },
   "terms": {
-    "title": "Terms of Service",
-    "lastUpdated": "Last Updated: May 2026",
+    "title": "Termos de Outelizaçon",
+    "lastUpdated": "Redadeira atualizaçon: 4 de setembre de 2026",
     "sections": [
       {
-        "heading": "1. Acceptance of Terms",
-        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+        "heading": "1. Aceitaçon de ls Termos",
+        "content": "Al aceder i outelizar este sítio aceita estes termos de outelizaçon. Se nun cuncorda cun algua de las sues partes, deixe de outelizar l sítio."
       },
       {
-        "heading": "2. Use of Content",
-        "content": "All content on this website is for informational purposes only. We are an independent third-party travel information website, not affiliated with any tourist attractions, government agencies, or commercial operators."
+        "heading": "2. Finalidade de l Sítio",
+        "content": "Este ye un guia de l bejitante andependiente, sin fins comerciales i de caráter eiducatibo subre l Castielho de Monsaraz i la bila amuralhada de Monsaraz. Nun tenemos lhigaçon a nanhue antidade oufecial, ampresa ó atraçon i nun benemos bilhetes, bejitas ó perdutos."
       },
       {
-        "heading": "3. Accuracy of Information",
-        "content": "We strive to provide accurate and timely information, but we cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Always verify important information through official channels before traveling."
+        "heading": "3. Eisatidon de la Anformaçon",
+        "content": "Percurando manter la anformaçon eisata i atualizada, mas horairos, serbícios i eiquipamientos puoden mudar sin abiso. Cunfirme siempre ls detalhes sensibles al tiempo (horairos, eibentos, acessibelidade) junto de las antidades oufeciales lhistadas nesta páigina antes de bieijar."
       },
       {
-        "heading": "4. Intellectual Property",
-        "content": "The design and original content of this website are protected by copyright. Images are sourced from Unsplash and used under license. The use of Google Maps data complies with Google's terms of service."
+        "heading": "4. Propriedade Anteletual",
+        "content": "L testo i l zeinho ouriginal deste sítio son de la nuossa outorie. Las fotografies son outelizadas cula outorizaçon de ls sous outores. Ls mapas ancorporados i ls dados meteorológicos pertencen als respetibos fornecidos i son outelizados ne ls sous termos."
       },
       {
-        "heading": "5. Limitation of Liability",
-        "content": "This website is provided \"as is\" without any warranties. We are not responsible for any losses resulting from the use of information on this website, including but not limited to travel decisions made based on its content."
+        "heading": "5. Lhemitaçon de Responsabelidade",
+        "content": "Las anformaçones deste sítio son fornecidas \"tal cumo stán\", sin garanties de qualquiera tipo. Nun aceitamos responsabelidade por perdas resultantes de decisons tomadas cun base neste cuntenido, ancluindo, mas nun se lhemitando a, decisons de planeamiento de biaiges."
       }
     ]
   },
   "cookieSettings": {
-    "title": "Cookie Settings",
-    "description": "Last Updated: May 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "title": "Defeniçones de Cookies",
+    "description": "Redadeira atualizaçon: 4 de setembre de 2026\n\nOutelizamos cookies pa melhorar la sue speriéncia de nabegaçon. Puode gerir las sues preferéncias ambaixo. Las sues scolhas son guardadas ne l sou própio çpositibo.",
     "essential": {
-      "title": "Essential Cookies",
-      "description": "These cookies are essential for the website to function properly and cannot be disabled.",
-      "badge": "Always Active"
+      "title": "Cookies Eissenciales",
+      "description": "Son necesaias al funcionamiento correto de l sítio (por eisemplo, pa recordar l sou eidioma i tema) i nun puoden ser zatibadas.",
+      "badge": "Sempre Atibas"
     },
     "analytics": {
-      "title": "Analytics Cookies",
-      "description": "They help us understand how visitors interact with our website by collecting anonymous usage data.",
+      "title": "Cookies Analíticas",
+      "description": "Ajudan-mos a cumprender cumo ls bejitantes outelizan l sítio atrabeç de statísticas anónimas — solo quando dou l sou cunsentimiento.",
       "items": [
         {
           "name": "Google Analytics",
-          "status": "Active",
-          "description": "It collects anonymous information about how visitors use our website."
+          "status": "Atiba",
+          "description": "Recolhe statísticas anónimas subre l outelizaçon deste sítio."
         }
       ]
     },
     "marketing": {
-      "title": "Marketing Cookies",
-      "description": "They are used to show relevant advertisements and measure the effectiveness of ad campaigns.",
+      "title": "Cookies de Marketing",
+      "description": "Este sítio nun amostra publicidade, pul que nun outeliza cookies de marketing.",
       "items": [
         {
-          "name": "Personalized Ads",
-          "status": "Inactive",
-          "description": "It can show you relevant ads based on your interests."
+          "name": "Cookies de publicidade i monitorizaçon",
+          "status": "Zatibas",
+          "description": "Nun son outelizadas neste sítio. Mantidas alhi por trasparéncia."
         }
       ]
     },
-    "save": "Save Preferences",
-    "saved": "Settings saved!",
+    "save": "Guardar Preferéncias",
+    "saved": "Preferéncias guardadas!",
     "preferences": {
       "items": [
         {
-          "name": "User Preferences",
-          "status": "Active",
-          "description": "Saves your language preferences and website settings."
+          "name": "Preferéncias de l Outelizador",
+          "status": "Atibas",
+          "description": "Guarda las sues scolhas de eidioma i tema neste çpositibo."
         }
       ],
-      "title": "Preference Cookies",
-      "description": "They remember your settings, such as language and theme preferences."
+      "title": "Cookies de Preferéncias",
+      "description": "Recordan defeniçones cumo l eidioma i l tema de quelores."
     },
-    "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
-    "rejectAll": "Reject All"
+    "consentManagement": "Geston de cunsentimiento: puode mudar las sues defeniçones de cookies a qualquiera momento. Zatibar algunas cookies puode afetar l funcionamiento de l sítio.",
+    "rejectAll": "Ressusar Tudo"
   },
   "officialManagement": {
-    "title": "About Monsaraz Castle",
-    "text": "Monsaraz Castle is one of Portugal's most precious historical heritages."
+    "title": "Subre Este Guia",
+    "text": "L Castielho de Monsaraz ye un de ls patrimonhos mais preciosos de l Alentejo pertués. Este guia andependiente i sin fines comerciales fui screbido pa dar a coincer la sue stória i ajudar a besitá-lo bien preparado. Nun benemos nada i nun recomendamos ampresas cuncretas — solo las fuontes oufeciales i públicas andicadas ne l fin de la páigina."
   }
 }

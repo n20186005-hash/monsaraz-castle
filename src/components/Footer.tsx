@@ -1,18 +1,24 @@
-import { useTranslations } from 'next-intl';
-import { useLocale } from 'next-intl';
+'use client';
 
-const officialLinks = [
-  { name: '葡萄牙国家旅游局', url: 'https://www.visitportugal.com/en' },
-  { name: '葡萄牙国家文化遗产保护总局', url: 'https://www.patrimoniocultural.gov.pt/' },
-  { name: '阿连特茹大区旅游局', url: 'https://www.visitalentejo.pt/' },
-  { name: '雷根戈什-迪蒙萨拉斯市政府', url: 'https://www.cm-reguengos-monsaraz.pt/' },
-  { name: '葡萄牙出入境与内政管理', url: 'https://aima.gov.pt/pt' },
-];
+import { useTranslations, useMessages, useLocale } from 'next-intl';
+
+const brandByLocale: Record<string, string> = {
+  pt: 'Castelo de Monsaraz',
+  en: 'Monsaraz Castle',
+  zh: '蒙萨拉什城堡',
+  mwl: 'Castielho de Monsaraz',
+};
 
 export default function Footer() {
   const t = useTranslations('footer');
   const locale = useLocale();
-  const prefix = locale === 'en' ? '' : `/${locale}`;
+  const messages = useMessages() as any;
+  const officialLinks = (messages?.footer?.officialLinks || []) as Array<{
+    name: string;
+    url: string;
+  }>;
+  const brand = brandByLocale[locale] || 'Monsaraz Castle';
+  const prefix = `/${locale}`;
 
   return (
     <footer
@@ -23,19 +29,19 @@ export default function Footer() {
         <div className="flex flex-col sm:flex-row justify-between items-start gap-8 mb-8">
           <div className="max-w-md">
             <h3 className="font-display text-lg font-semibold mb-1" style={{ color: 'var(--text-primary)' }}>
-              Monsaraz Castle
+              {brand}
             </h3>
             <p className="text-xs mb-4" style={{ color: 'var(--text-muted)' }}>
               {t('officialResourcesTitle')}
             </p>
             <div className="flex flex-col gap-2">
               {officialLinks.map((link, i) => (
-                <a 
+                <a
                   key={i}
-                  href={link.url} 
-                  target="_blank" 
-                  rel="noopener noreferrer" 
-                  className="hover:underline text-sm" 
+                  href={link.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:underline text-sm"
                   style={{ color: 'var(--accent)' }}
                 >
                   {link.name}
@@ -62,6 +68,7 @@ export default function Footer() {
         >
           <p>{t('rights')}</p>
           <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('disclaimer')}</p>
+          <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('photoCredit')}</p>
         </div>
       </div>
     </footer>

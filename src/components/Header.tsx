@@ -1,12 +1,21 @@
 'use client';
 
-import { useTranslations } from 'next-intl';
+import { useTranslations, useLocale } from 'next-intl';
 import LanguageToggle from './LanguageToggle';
 import ThemeToggle from './ThemeToggle';
 import { useState, useEffect } from 'react';
 
+const brandByLocale: Record<string, string> = {
+  pt: 'Castelo de Monsaraz',
+  en: 'Monsaraz Castle',
+  zh: '蒙萨拉什城堡',
+  mwl: 'Castielho de Monsaraz',
+};
+
 export default function Header() {
   const t = useTranslations('header');
+  const locale = useLocale();
+  const brand = brandByLocale[locale] || 'Monsaraz Castle';
   const [scrolled, setScrolled] = useState(false);
 
   useEffect(() => {
@@ -14,6 +23,14 @@ export default function Header() {
     window.addEventListener('scroll', handler, { passive: true });
     return () => window.removeEventListener('scroll', handler);
   }, []);
+
+  const navItems = [
+    { key: 'facilities', id: 'facilities' },
+    { key: 'stories', id: 'stories' },
+    { key: 'gallery', id: 'gallery' },
+    { key: 'faq', id: 'faq' },
+    { key: 'map', id: 'map' },
+  ] as const;
 
   return (
     <header
@@ -25,19 +42,23 @@ export default function Header() {
       }}
     >
       <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
-        <a href="/" className="font-display text-lg font-semibold tracking-tight" style={{ color: scrolled ? 'var(--text-primary)' : '#fff' }}>
-          Monsaraz Castle
+        <a
+          href={`/${locale}`}
+          className="font-display text-lg font-semibold tracking-tight"
+          style={{ color: scrolled ? 'var(--text-primary)' : '#fff' }}
+        >
+          {brand}
         </a>
 
-        <nav className="hidden md:flex items-center gap-6">
-          {(['gallery', 'reviews', 'map'] as const).map((section) => (
+        <nav className="hidden lg:flex items-center gap-5">
+          {navItems.map(({ key, id }) => (
             <a
-              key={section}
-              href={`/#${section}`}
+              key={key}
+              href={`/${locale}/#${id}`}
               className="text-sm font-medium transition-colors"
               style={{ color: scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}
             >
-              {t(section)}
+              {t(key)}
             </a>
           ))}
         </nav>

@@ -190,3 +190,18 @@ h1, h2, h3, h4, h5, h6 {
 a {
   transition: color 0.2s ease;
 }
+
+/* Sticky header offset for anchored navigation */
+section[id] {
+  scroll-margin-top: 4rem;
+}
+
+/* FAQ <summary> without the native marker */
+summary::-webkit-details-marker {
+  display: none;
+}
+
+/* Weather forecast tiles */
+.weather-tile {
+  min-height: 128px;
+}

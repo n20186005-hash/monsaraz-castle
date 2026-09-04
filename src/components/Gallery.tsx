@@ -13,7 +13,7 @@ export default function Gallery() {
   const [showAll, setShowAll] = useState(false);
 
   const photos = photoIndices.map((num, i) => ({
-    src: `/gallery/monsaraz-castle (${num}).jpg`,
+    src: `/gallery/monsaraz-castle-${num}.jpg`,
     alt: captions?.[i] || `Monsaraz Castle ${num}`,
   }));
 
@@ -88,7 +88,7 @@ export default function Gallery() {
                 </button>
               )}
               <a
-                href="https://maps.app.goo.gl/WLjBvPFtdXS7pBpXA"
+                href="https://maps.app.goo.gl/wFFoJUqnrAQXGdVJ8"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm hover:underline"

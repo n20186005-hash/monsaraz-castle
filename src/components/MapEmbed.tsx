@@ -1,3 +1,5 @@
+'use client';
+
 import { useTranslations } from 'next-intl';
 
 export default function MapEmbed() {
@@ -25,21 +27,21 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3143.5188840251786!2d-7.383181824056233!3d38.44474017325492!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd10b37803a6479b%3A0x633f81014a005cc9!2sCastelo%20de%20Monsaraz!5e0!3m2!1sen!2spt!4v1700000000000!5m2!1sen!2spt"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5558.205575143722!2d-7.381724900000001!3d38.4422826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd1734e8331389c7%3A0x1d8a185125af5706!2sMonsaraz%20Castle!5e1!3m2!1szh-CN!2s!4v1788502462025!5m2!1szh-CN!2s"
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Monsaraz Castle"
+            referrerPolicy="strict-origin-when-cross-origin"
+            title="Google Maps - Castelo de Monsaraz"
           />
         </div>
 
         {/* Open in Google Maps */}
         <div className="mt-6 flex justify-center">
           <a
-            href="https://maps.app.goo.gl/WLjBvPFtdXS7pBpXA"
+            href="https://maps.app.goo.gl/wFFoJUqnrAQXGdVJ8"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium text-white transition-colors"
