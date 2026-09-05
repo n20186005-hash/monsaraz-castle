@@ -146,14 +146,13 @@
   },
   "weather": {
     "title": "Weather in Monsaraz",
-    "subtitle": "Current conditions and forecast for the castle hilltop (38.44° N, 7.38° W), updated every 30 minutes from Open-Meteo.",
+    "subtitle": "Current conditions and a multi-day forecast for the castle hilltop (38.44° N, 7.38° W), refreshed every 30 minutes.",
     "current": "Current",
     "updated": "Updated",
     "feels": "Feels like",
     "wind": "Wind",
     "humidity": "Humidity",
     "forecast": "Forecast",
-    "source": "Weather data: Open-Meteo (open-meteo.com)",
     "unavailable": "Weather data is temporarily unavailable. Please check a local forecast before you travel.",
     "groups": {
       "clear": "Clear sky",
@@ -239,7 +238,7 @@
       },
       {
         "title": "Accommodation",
-        "desc": "The village offers a small number of guesthouses, country houses and holiday homes. Most visitors stay in the wider municipality of Reguengos de Monsaraz or by the Alqueva lakeshore. See the Accommodation section above for general guidance."
+        "desc": "The village offers a small number of guesthouses, country houses and holiday homes. Most visitors stay in the wider municipality of Reguengos de Monsaraz or by the Alqueva lakeshore. See the Accommodation section further down this page for general guidance."
       },
       {
         "title": "Grocery Shops",

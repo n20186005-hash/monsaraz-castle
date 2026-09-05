@@ -146,14 +146,13 @@
   },
   "weather": {
     "title": "Meteorologia em Monsaraz",
-    "subtitle": "Tempo atual e previsão para o topo da colina (38.44° N, 7.38° O), atualizado de 30 em 30 minutos via Open-Meteo.",
+    "subtitle": "Tempo atual e previsão para vários dias no topo da colina (38.44° N, 7.38° O), atualizado de 30 em 30 minutos.",
     "current": "Agora",
     "updated": "Atualizado",
     "feels": "Sensação térmica",
     "wind": "Vento",
     "humidity": "Humidade",
     "forecast": "Previsão",
-    "source": "Dados meteorológicos: Open-Meteo (open-meteo.com)",
     "unavailable": "Os dados meteorológicos estão temporariamente indisponíveis. Consulte uma previsão local antes de viajar.",
     "groups": {
       "clear": "Céu limpo",
@@ -239,7 +238,7 @@
       },
       {
         "title": "Alojamento",
-        "desc": "A vila oferece um pequeno número de casas de hóspedes, casas de campo e alojamentos locais. A maioria dos visitantes fica no concelho de Reguengos de Monsaraz ou nas margens do Alqueva. Veja a secção de alojamento acima para orientação geral."
+        "desc": "A vila oferece um pequeno número de casas de hóspedes, casas de campo e alojamentos locais. A maioria dos visitantes fica no concelho de Reguengos de Monsaraz ou nas margens do Alqueva. Veja a secção Onde Ficar, mais abaixo, para orientação geral."
       },
       {
         "title": "Compras e Mercearias",

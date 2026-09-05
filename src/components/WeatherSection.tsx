@@ -303,10 +303,6 @@ export default async function WeatherSection() {
                 </div>
               </div>
             </div>
-
-            <p className="text-xs" style={{ color: 'var(--text-muted)' }}>
-              {t('source')}
-            </p>
           </>
         )}
       </div>

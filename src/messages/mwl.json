@@ -146,14 +146,13 @@
   },
   "weather": {
     "title": "Meteorologie an Monsaraz",
-    "subtitle": "Tiempo atual i prebison pa l topo de la colina (38.44° N, 7.38° O), atualizado de 30 an 30 minutos via Open-Meteo.",
+    "subtitle": "Tiempo atual i prebison pa bários dies ne l topo de la colina (38.44° N, 7.38° O), atualizado de 30 an 30 minutos.",
     "current": "Agora",
     "updated": "Atualizado",
     "feels": "Sençon térmica",
     "wind": "Biento",
     "humidity": "Humedade",
     "forecast": "Prebison",
-    "source": "Dados meteorológicos: Open-Meteo (open-meteo.com)",
     "unavailable": "Ls dados meteorológicos stán temporariamente andisponibles. Cunsulte ua prebison local antes de bieijar.",
     "groups": {
       "clear": "Cielo limpo",
@@ -239,7 +238,7 @@
       },
       {
         "title": "Alojamiento",
-        "desc": "La bila oufrece un pequeinho númaro de casas de hóspedes, casas de campo i alojamientos locales. La maiorie de ls bejitantes queda ne l cunceilho de Reguengos de Monsaraz ó nas bordas de l Alqueba. Bé la secçon de alojamiento arriba pa ourientaçon general."
+        "desc": "La bila oufrece un pequeinho númaro de casas de hóspedes, casas de campo i alojamientos locales. La maiorie de ls bejitantes queda ne l cunceilho de Reguengos de Monsaraz ó nas bordas de l Alqueba. Bé la secçon Adonde Quedar, mais ambaixo, pa ourientaçon general."
       },
       {
         "title": "Cumpras i Mercearies",
